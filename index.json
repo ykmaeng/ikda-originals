@@ -1,0 +1,3759 @@
+{
+  "generated": "2026-05-08T04:38:37.781Z",
+  "count": 469,
+  "totalBytes": 258066900,
+  "books": [
+    {
+      "slug": "a-little-princess",
+      "file": "books/a-little-princess.json",
+      "bytes": 372234,
+      "chapters": 19,
+      "title": "Frances Hodgson Burnett — A Little Princess (1905)",
+      "level": 6
+    },
+    {
+      "slug": "a-lost-lady",
+      "file": "books/a-lost-lady.json",
+      "bytes": 192847,
+      "chapters": 18,
+      "title": "Willa Cather — A Lost Lady (1923)",
+      "level": 6
+    },
+    {
+      "slug": "a-womans-life",
+      "file": "books/a-womans-life.json",
+      "bytes": 60468,
+      "chapters": 6,
+      "title": "Guy de Maupassant — A Woman's Life (1883)",
+      "level": 5
+    },
+    {
+      "slug": "adam-bede",
+      "file": "books/adam-bede.json",
+      "bytes": 1200115,
+      "chapters": 54,
+      "title": "George Eliot — Adam Bede (1859)",
+      "level": 6
+    },
+    {
+      "slug": "aeneid",
+      "file": "books/aeneid.json",
+      "bytes": 632462,
+      "chapters": 12,
+      "title": "Virgil — The Aeneid (Dryden tr.)",
+      "level": 6
+    },
+    {
+      "slug": "age-of-innocence",
+      "file": "books/age-of-innocence.json",
+      "bytes": 592851,
+      "chapters": 34,
+      "title": "Edith Wharton — The Age of Innocence (1920)",
+      "level": 6
+    },
+    {
+      "slug": "agnes-grey",
+      "file": "books/agnes-grey.json",
+      "bytes": 387381,
+      "chapters": 25,
+      "title": "Anne Brontë — Agnes Grey (1847)",
+      "level": 6
+    },
+    {
+      "slug": "alice",
+      "file": "books/alice.json",
+      "bytes": 153715,
+      "chapters": 12,
+      "title": "Lewis Carroll — Alice in Wonderland (1865)",
+      "level": 6
+    },
+    {
+      "slug": "allan-quatermain",
+      "file": "books/allan-quatermain.json",
+      "bytes": 273910,
+      "chapters": 14,
+      "title": "H. Rider Haggard — Allan Quatermain (1887)",
+      "level": 6
+    },
+    {
+      "slug": "amateur-cracksman",
+      "file": "books/amateur-cracksman.json",
+      "bytes": 284650,
+      "chapters": 7,
+      "title": "E. W. Hornung — The Amateur Cracksman (1899)",
+      "level": 5
+    },
+    {
+      "slug": "ann-veronica",
+      "file": "books/ann-veronica.json",
+      "bytes": 568594,
+      "chapters": 26,
+      "title": "H. G. Wells — Ann Veronica (1909)",
+      "level": 6
+    },
+    {
+      "slug": "anna-karenina",
+      "file": "books/anna-karenina.json",
+      "bytes": 1164718,
+      "chapters": 35,
+      "title": "Leo Tolstoy — Anna Karenina (1877)",
+      "level": 6
+    },
+    {
+      "slug": "anne-of-avonlea",
+      "file": "books/anne-of-avonlea.json",
+      "bytes": 510367,
+      "chapters": 30,
+      "title": "L. M. Montgomery — Anne of Avonlea (1909)",
+      "level": 6
+    },
+    {
+      "slug": "anne-of-green-gables",
+      "file": "books/anne-of-green-gables.json",
+      "bytes": 584974,
+      "chapters": 38,
+      "title": "L. M. Montgomery — Anne of Green Gables (1908)",
+      "level": 6
+    },
+    {
+      "slug": "anne-of-the-island",
+      "file": "books/anne-of-the-island.json",
+      "bytes": 449921,
+      "chapters": 41,
+      "title": "L. M. Montgomery — Anne of the Island (1915)",
+      "level": 6
+    },
+    {
+      "slug": "annes-house-of-dreams",
+      "file": "books/annes-house-of-dreams.json",
+      "bytes": 458844,
+      "chapters": 40,
+      "title": "L. M. Montgomery — Anne's House of Dreams (1917)",
+      "level": 6
+    },
+    {
+      "slug": "antigone",
+      "file": "books/antigone.json",
+      "bytes": 8127,
+      "chapters": 3,
+      "title": "Sophocles — Antigone (c. 441 BC)",
+      "level": 6
+    },
+    {
+      "slug": "antony-and-cleopatra",
+      "file": "books/antony-and-cleopatra.json",
+      "bytes": 153872,
+      "chapters": 5,
+      "title": "Shakespeare — Antony and Cleopatra (1607)",
+      "level": 6
+    },
+    {
+      "slug": "aristotle-nicomachean",
+      "file": "books/aristotle-nicomachean.json",
+      "bytes": 591454,
+      "chapters": 9,
+      "title": "Aristotle — Nicomachean Ethics (Ross tr.)",
+      "level": 6
+    },
+    {
+      "slug": "aristotle-poetics",
+      "file": "books/aristotle-poetics.json",
+      "bytes": 89858,
+      "chapters": 22,
+      "title": "Aristotle — Poetics (Butcher tr.)",
+      "level": 6
+    },
+    {
+      "slug": "aristotle-politics",
+      "file": "books/aristotle-politics.json",
+      "bytes": 559279,
+      "chapters": 9,
+      "title": "Aristotle — Politics (Jowett tr.)",
+      "level": 6
+    },
+    {
+      "slug": "armadale",
+      "file": "books/armadale.json",
+      "bytes": 837055,
+      "chapters": 15,
+      "title": "Wilkie Collins — Armadale (1866)",
+      "level": 6
+    },
+    {
+      "slug": "around-the-world",
+      "file": "books/around-the-world.json",
+      "bytes": 383870,
+      "chapters": 37,
+      "title": "Jules Verne — Around the World in Eighty Days (1873)",
+      "level": 6
+    },
+    {
+      "slug": "arrowsmith",
+      "file": "books/arrowsmith.json",
+      "bytes": 742923,
+      "chapters": 37,
+      "title": "Sinclair Lewis — Arrowsmith (1925)",
+      "level": 6
+    },
+    {
+      "slug": "art-of-war",
+      "file": "books/art-of-war.json",
+      "bytes": 245520,
+      "chapters": 62,
+      "title": "Sun Tzu — The Art of War",
+      "level": 6
+    },
+    {
+      "slug": "as-you-like-it",
+      "file": "books/as-you-like-it.json",
+      "bytes": 126759,
+      "chapters": 5,
+      "title": "Shakespeare — As You Like It (1599)",
+      "level": 6
+    },
+    {
+      "slug": "aspern-papers",
+      "file": "books/aspern-papers.json",
+      "bytes": 213648,
+      "chapters": 9,
+      "title": "Henry James — The Aspern Papers (1888)",
+      "level": 6
+    },
+    {
+      "slug": "at-the-back-of-the-north-wind",
+      "file": "books/at-the-back-of-the-north-wind.json",
+      "bytes": 484133,
+      "chapters": 38,
+      "title": "George MacDonald — At the Back of the North Wind (1871)",
+      "level": 6
+    },
+    {
+      "slug": "at-the-earths-core",
+      "file": "books/at-the-earths-core.json",
+      "bytes": 272603,
+      "chapters": 15,
+      "title": "Edgar Rice Burroughs — At the Earth's Core (1914)",
+      "level": 5
+    },
+    {
+      "slug": "autobiography-of-franklin",
+      "file": "books/autobiography-of-franklin.json",
+      "bytes": 414237,
+      "chapters": 20,
+      "title": "Benjamin Franklin — Autobiography (1791)",
+      "level": 6
+    },
+    {
+      "slug": "babbitt",
+      "file": "books/babbitt.json",
+      "bytes": 8292,
+      "chapters": 3,
+      "title": "Sinclair Lewis — Babbitt (1922)",
+      "level": 6
+    },
+    {
+      "slug": "bacchae",
+      "file": "books/bacchae.json",
+      "bytes": 75296,
+      "chapters": 1,
+      "title": "Euripides — The Bacchae (Tr. Murray)",
+      "level": 6
+    },
+    {
+      "slug": "barchester-towers",
+      "file": "books/barchester-towers.json",
+      "bytes": 395747,
+      "chapters": 20,
+      "title": "Anthony Trollope — Barchester Towers (1857)",
+      "level": 6
+    },
+    {
+      "slug": "barnaby-rudge",
+      "file": "books/barnaby-rudge.json",
+      "bytes": 1462113,
+      "chapters": 81,
+      "title": "Charles Dickens — Barnaby Rudge (1841)",
+      "level": 6
+    },
+    {
+      "slug": "bartleby",
+      "file": "books/bartleby.json",
+      "bytes": 83514,
+      "chapters": 1,
+      "title": "Herman Melville — Bartleby, the Scrivener (1853)",
+      "level": 6
+    },
+    {
+      "slug": "beast-in-the-jungle",
+      "file": "books/beast-in-the-jungle.json",
+      "bytes": 103498,
+      "chapters": 6,
+      "title": "Henry James — The Beast in the Jungle (1903)",
+      "level": 6
+    },
+    {
+      "slug": "beautiful-joe",
+      "file": "books/beautiful-joe.json",
+      "bytes": 330034,
+      "chapters": 14,
+      "title": "Marshall Saunders — Beautiful Joe (1893)",
+      "level": 6
+    },
+    {
+      "slug": "bel-ami-fr",
+      "file": "books/bel-ami-fr.json",
+      "bytes": 1113572,
+      "chapters": 1,
+      "title": "Guy de Maupassant — Bel-Ami (1885)",
+      "level": 5
+    },
+    {
+      "slug": "belly-of-paris",
+      "file": "books/belly-of-paris.json",
+      "bytes": 761726,
+      "chapters": 6,
+      "title": "Émile Zola — The Belly of Paris (1873)",
+      "level": 6
+    },
+    {
+      "slug": "beowulf",
+      "file": "books/beowulf.json",
+      "bytes": 184759,
+      "chapters": 43,
+      "title": "Anglo-Saxon Epic — Beowulf (Tr. Hall)",
+      "level": 6
+    },
+    {
+      "slug": "billy-budd",
+      "file": "books/billy-budd.json",
+      "bytes": 553647,
+      "chapters": 21,
+      "title": "Herman Melville — Billy Budd (1924)",
+      "level": 6
+    },
+    {
+      "slug": "black-beauty",
+      "file": "books/black-beauty.json",
+      "bytes": 317853,
+      "chapters": 49,
+      "title": "Anna Sewell — Black Beauty (1877)",
+      "level": 6
+    },
+    {
+      "slug": "black-tulip",
+      "file": "books/black-tulip.json",
+      "bytes": 429926,
+      "chapters": 33,
+      "title": "Alexandre Dumas — The Black Tulip (1850)",
+      "level": 6
+    },
+    {
+      "slug": "bleak-house",
+      "file": "books/bleak-house.json",
+      "bytes": 2000444,
+      "chapters": 67,
+      "title": "Charles Dickens — Bleak House (1853)",
+      "level": 6
+    },
+    {
+      "slug": "boris-godunov",
+      "file": "books/boris-godunov.json",
+      "bytes": 99284,
+      "chapters": 22,
+      "title": "Alexander Pushkin — Boris Godunov (1825)",
+      "level": 6
+    },
+    {
+      "slug": "botchan",
+      "file": "books/botchan.json",
+      "bytes": 254850,
+      "chapters": 11,
+      "title": "Natsume Soseki — Botchan (1906)",
+      "level": 6
+    },
+    {
+      "slug": "brothers-karamazov",
+      "file": "books/brothers-karamazov.json",
+      "bytes": 1993502,
+      "chapters": 27,
+      "title": "Fyodor Dostoevsky — The Brothers Karamazov (1880)",
+      "level": 6
+    },
+    {
+      "slug": "buddenbrooks",
+      "file": "books/buddenbrooks.json",
+      "bytes": 13042,
+      "chapters": 4,
+      "title": "Thomas Mann — Buddenbrooks (1901)",
+      "level": 6
+    },
+    {
+      "slug": "call-of-the-wild",
+      "file": "books/call-of-the-wild.json",
+      "bytes": 178571,
+      "chapters": 7,
+      "title": "Jack London — The Call of the Wild (1903)",
+      "level": 6
+    },
+    {
+      "slug": "candide",
+      "file": "books/candide.json",
+      "bytes": 203649,
+      "chapters": 30,
+      "title": "Voltaire — Candide (1759)",
+      "level": 6
+    },
+    {
+      "slug": "canterbury-tales",
+      "file": "books/canterbury-tales.json",
+      "bytes": 245045,
+      "chapters": 32,
+      "title": "Geoffrey Chaucer — The Canterbury Tales (Skeat ed.)",
+      "level": 6
+    },
+    {
+      "slug": "canterville-ghost",
+      "file": "books/canterville-ghost.json",
+      "bytes": 65291,
+      "chapters": 7,
+      "title": "Oscar Wilde — The Canterville Ghost (1887)",
+      "level": 6
+    },
+    {
+      "slug": "captains-courageous",
+      "file": "books/captains-courageous.json",
+      "bytes": 234000,
+      "chapters": 7,
+      "title": "Rudyard Kipling — Captains Courageous (1897)",
+      "level": 6
+    },
+    {
+      "slug": "captains-daughter",
+      "file": "books/captains-daughter.json",
+      "bytes": 221871,
+      "chapters": 14,
+      "title": "Alexander Pushkin — The Captain's Daughter (1836)",
+      "level": 6
+    },
+    {
+      "slug": "carmilla",
+      "file": "books/carmilla.json",
+      "bytes": 160371,
+      "chapters": 16,
+      "title": "J. S. Le Fanu — Carmilla (1872)",
+      "level": 6
+    },
+    {
+      "slug": "case-book-of-sherlock-holmes",
+      "file": "books/case-book-of-sherlock-holmes.json",
+      "bytes": 455379,
+      "chapters": 12,
+      "title": "Arthur Conan Doyle — The Case-Book of Sherlock Holmes (1927)",
+      "level": 6
+    },
+    {
+      "slug": "castle-of-otranto",
+      "file": "books/castle-of-otranto.json",
+      "bytes": 206183,
+      "chapters": 5,
+      "title": "Horace Walpole — The Castle of Otranto (1764)",
+      "level": 6
+    },
+    {
+      "slug": "charterhouse-parma",
+      "file": "books/charterhouse-parma.json",
+      "bytes": 1116990,
+      "chapters": 28,
+      "title": "Stendhal — The Charterhouse of Parma (1839)",
+      "level": 6
+    },
+    {
+      "slug": "chekhov-stories",
+      "file": "books/chekhov-stories.json",
+      "bytes": 404220,
+      "chapters": 19,
+      "title": "Anton Chekhov — Stories",
+      "level": 6
+    },
+    {
+      "slug": "cherry-orchard",
+      "file": "books/cherry-orchard.json",
+      "bytes": 223896,
+      "chapters": 8,
+      "title": "Anton Chekhov — The Cherry Orchard (1904)",
+      "level": 6
+    },
+    {
+      "slug": "childhood-tolstoy",
+      "file": "books/childhood-tolstoy.json",
+      "bytes": 222880,
+      "chapters": 27,
+      "title": "Leo Tolstoy — Childhood, Boyhood, Youth (1852-1857)",
+      "level": 6
+    },
+    {
+      "slug": "christmas-carol",
+      "file": "books/christmas-carol.json",
+      "bytes": 161092,
+      "chapters": 5,
+      "title": "Charles Dickens — A Christmas Carol (1843)",
+      "level": 6
+    },
+    {
+      "slug": "civil-disobedience",
+      "file": "books/civil-disobedience.json",
+      "bytes": 51870,
+      "chapters": 1,
+      "title": "Henry David Thoreau — Civil Disobedience (1849)",
+      "level": 6
+    },
+    {
+      "slug": "cloud-dream-of-the-nine",
+      "file": "books/cloud-dream-of-the-nine.json",
+      "bytes": 561598,
+      "chapters": 24,
+      "title": "Kim Man-jung — The Cloud Dream of the Nine (1689 / Gale tr. 1922)",
+      "level": 5
+    },
+    {
+      "slug": "comedy-of-errors",
+      "file": "books/comedy-of-errors.json",
+      "bytes": 131858,
+      "chapters": 5,
+      "title": "Shakespeare — Comedy of Errors (1594)",
+      "level": 6
+    },
+    {
+      "slug": "coming-race",
+      "file": "books/coming-race.json",
+      "bytes": 308875,
+      "chapters": 26,
+      "title": "Edward Bulwer-Lytton — The Coming Race (1871)",
+      "level": 6
+    },
+    {
+      "slug": "common-sense",
+      "file": "books/common-sense.json",
+      "bytes": 125922,
+      "chapters": 1,
+      "title": "Thomas Paine — Common Sense (1776)",
+      "level": 6
+    },
+    {
+      "slug": "confessions-augustine",
+      "file": "books/confessions-augustine.json",
+      "bytes": 606891,
+      "chapters": 13,
+      "title": "Saint Augustine — Confessions (Pusey tr.)",
+      "level": 6
+    },
+    {
+      "slug": "connecticut-yankee",
+      "file": "books/connecticut-yankee.json",
+      "bytes": 642520,
+      "chapters": 44,
+      "title": "Mark Twain — A Connecticut Yankee (1889)",
+      "level": 6
+    },
+    {
+      "slug": "coral-island",
+      "file": "books/coral-island.json",
+      "bytes": 603874,
+      "chapters": 23,
+      "title": "R. M. Ballantyne — The Coral Island (1857)",
+      "level": 6
+    },
+    {
+      "slug": "coriolanus",
+      "file": "books/coriolanus.json",
+      "bytes": 168914,
+      "chapters": 5,
+      "title": "Shakespeare — Coriolanus (1608)",
+      "level": 6
+    },
+    {
+      "slug": "count-of-monte-cristo",
+      "file": "books/count-of-monte-cristo.json",
+      "bytes": 2745473,
+      "chapters": 117,
+      "title": "Alexandre Dumas — The Count of Monte Cristo (1844)",
+      "level": 6
+    },
+    {
+      "slug": "cousin-bette",
+      "file": "books/cousin-bette.json",
+      "bytes": 884741,
+      "chapters": 2,
+      "title": "cousin-bette",
+      "level": 6
+    },
+    {
+      "slug": "cranford",
+      "file": "books/cranford.json",
+      "bytes": 394985,
+      "chapters": 16,
+      "title": "Elizabeth Gaskell — Cranford (1853)",
+      "level": 6
+    },
+    {
+      "slug": "crime-and-punishment",
+      "file": "books/crime-and-punishment.json",
+      "bytes": 1162483,
+      "chapters": 14,
+      "title": "Fyodor Dostoevsky — Crime and Punishment (1866)",
+      "level": 6
+    },
+    {
+      "slug": "custom-of-the-country",
+      "file": "books/custom-of-the-country.json",
+      "bytes": 61713,
+      "chapters": 99,
+      "title": "Edith Wharton — The Custom of the Country (1913)",
+      "level": 6
+    },
+    {
+      "slug": "cyrano-de-bergerac",
+      "file": "books/cyrano-de-bergerac.json",
+      "bytes": 210362,
+      "chapters": 6,
+      "title": "Edmond Rostand — Cyrano de Bergerac (1897)",
+      "level": 6
+    },
+    {
+      "slug": "daddy-long-legs",
+      "file": "books/daddy-long-legs.json",
+      "bytes": 192771,
+      "chapters": 4,
+      "title": "Jean Webster — Daddy-Long-Legs (1912)",
+      "level": 6
+    },
+    {
+      "slug": "daisy-miller",
+      "file": "books/daisy-miller.json",
+      "bytes": 127313,
+      "chapters": 2,
+      "title": "Henry James — Daisy Miller (1878)",
+      "level": 6
+    },
+    {
+      "slug": "dangerous-liaisons",
+      "file": "books/dangerous-liaisons.json",
+      "bytes": 270181,
+      "chapters": 30,
+      "title": "Choderlos de Laclos — Dangerous Liaisons (1782)",
+      "level": 6
+    },
+    {
+      "slug": "daniel-deronda",
+      "file": "books/daniel-deronda.json",
+      "bytes": 1785216,
+      "chapters": 70,
+      "title": "George Eliot — Daniel Deronda (1876)",
+      "level": 6
+    },
+    {
+      "slug": "david-copperfield",
+      "file": "books/david-copperfield.json",
+      "bytes": 1997281,
+      "chapters": 66,
+      "title": "Charles Dickens — David Copperfield (1850)",
+      "level": 6
+    },
+    {
+      "slug": "dead-souls",
+      "file": "books/dead-souls.json",
+      "bytes": 799382,
+      "chapters": 12,
+      "title": "Nikolai Gogol — Dead Souls (1842)",
+      "level": 6
+    },
+    {
+      "slug": "death-comes-for-archbishop",
+      "file": "books/death-comes-for-archbishop.json",
+      "bytes": 400482,
+      "chapters": 32,
+      "title": "Willa Cather — Death Comes for the Archbishop (1927)",
+      "level": 6
+    },
+    {
+      "slug": "death-in-venice",
+      "file": "books/death-in-venice.json",
+      "bytes": 8943,
+      "chapters": 3,
+      "title": "Thomas Mann — Death in Venice (1912)",
+      "level": 6
+    },
+    {
+      "slug": "decameron",
+      "file": "books/decameron.json",
+      "bytes": 1652614,
+      "chapters": 10,
+      "title": "Giovanni Boccaccio — The Decameron (Payne tr.)",
+      "level": 6
+    },
+    {
+      "slug": "demian",
+      "file": "books/demian.json",
+      "bytes": 285456,
+      "chapters": 8,
+      "title": "Hermann Hesse — Demian (1919)",
+      "level": 6
+    },
+    {
+      "slug": "deutsche-liebe",
+      "file": "books/deutsche-liebe.json",
+      "bytes": 136705,
+      "chapters": 10,
+      "title": "Max Müller — German Love (1857)",
+      "level": 6
+    },
+    {
+      "slug": "diary-madman-gogol",
+      "file": "books/diary-madman-gogol.json",
+      "bytes": 122513,
+      "chapters": 6,
+      "title": "Nikolai Gogol — Diary of a Madman (1835)",
+      "level": 6
+    },
+    {
+      "slug": "dog-of-flanders",
+      "file": "books/dog-of-flanders.json",
+      "bytes": 285357,
+      "chapters": 7,
+      "title": "Ouida — A Dog of Flanders (1872)",
+      "level": 6
+    },
+    {
+      "slug": "dolls-house",
+      "file": "books/dolls-house.json",
+      "bytes": 145744,
+      "chapters": 3,
+      "title": "Henrik Ibsen — A Doll's House (1879)",
+      "level": 6
+    },
+    {
+      "slug": "dombey-and-son",
+      "file": "books/dombey-and-son.json",
+      "bytes": 2056670,
+      "chapters": 62,
+      "title": "Charles Dickens — Dombey and Son (1848)",
+      "level": 6
+    },
+    {
+      "slug": "don-juan",
+      "file": "books/don-juan.json",
+      "bytes": 715631,
+      "chapters": 17,
+      "title": "Lord Byron — Don Juan (1819-1824)",
+      "level": 6
+    },
+    {
+      "slug": "don-quixote",
+      "file": "books/don-quixote.json",
+      "bytes": 1149396,
+      "chapters": 74,
+      "title": "Miguel de Cervantes — Don Quixote (1605, Ormsby tr.)",
+      "level": 6
+    },
+    {
+      "slug": "dona-perfecta",
+      "file": "books/dona-perfecta.json",
+      "bytes": 426801,
+      "chapters": 31,
+      "title": "Benito Pérez Galdós — Doña Perfecta (1876)",
+      "level": 6
+    },
+    {
+      "slug": "dorian-gray",
+      "file": "books/dorian-gray.json",
+      "bytes": 441591,
+      "chapters": 20,
+      "title": "Oscar Wilde — The Picture of Dorian Gray (1890)",
+      "level": 6
+    },
+    {
+      "slug": "dracula",
+      "file": "books/dracula.json",
+      "bytes": 2035355,
+      "chapters": 27,
+      "title": "Bram Stoker — Dracula (1897)",
+      "level": 6
+    },
+    {
+      "slug": "dream-play",
+      "file": "books/dream-play.json",
+      "bytes": 114215,
+      "chapters": 1,
+      "title": "August Strindberg — A Dream Play (1902)",
+      "level": 6
+    },
+    {
+      "slug": "dubliners",
+      "file": "books/dubliners.json",
+      "bytes": 382539,
+      "chapters": 15,
+      "title": "James Joyce — Dubliners (1914)",
+      "level": 6
+    },
+    {
+      "slug": "edwin-drood",
+      "file": "books/edwin-drood.json",
+      "bytes": 558475,
+      "chapters": 23,
+      "title": "Charles Dickens — The Mystery of Edwin Drood (1870)",
+      "level": 6
+    },
+    {
+      "slug": "eight-cousins",
+      "file": "books/eight-cousins.json",
+      "bytes": 403533,
+      "chapters": 24,
+      "title": "Louisa May Alcott — Eight Cousins (1875)",
+      "level": 6
+    },
+    {
+      "slug": "electra-sophocles",
+      "file": "books/electra-sophocles.json",
+      "bytes": 125716,
+      "chapters": 1,
+      "title": "Sophocles — Electra (Tr. Campbell)",
+      "level": 6
+    },
+    {
+      "slug": "emerson-essays",
+      "file": "books/emerson-essays.json",
+      "bytes": 386475,
+      "chapters": 32,
+      "title": "Ralph Waldo Emerson — Essays: First Series (1841)",
+      "level": 6
+    },
+    {
+      "slug": "emily-of-new-moon",
+      "file": "books/emily-of-new-moon.json",
+      "bytes": 649218,
+      "chapters": 32,
+      "title": "emily-of-new-moon",
+      "level": 6
+    },
+    {
+      "slug": "emma",
+      "file": "books/emma.json",
+      "bytes": 328388,
+      "chapters": 19,
+      "title": "Jane Austen — Emma (1815)",
+      "level": 6
+    },
+    {
+      "slug": "enchanted-castle",
+      "file": "books/enchanted-castle.json",
+      "bytes": 388366,
+      "chapters": 12,
+      "title": "E. Nesbit — The Enchanted Castle (1907)",
+      "level": 6
+    },
+    {
+      "slug": "erewhon",
+      "file": "books/erewhon.json",
+      "bytes": 457803,
+      "chapters": 29,
+      "title": "Samuel Butler — Erewhon (1872)",
+      "level": 6
+    },
+    {
+      "slug": "essays-of-elia",
+      "file": "books/essays-of-elia.json",
+      "bytes": 1106925,
+      "chapters": 19,
+      "title": "Charles Lamb — Essays of Elia (1823)",
+      "level": 6
+    },
+    {
+      "slug": "ethan-frome",
+      "file": "books/ethan-frome.json",
+      "bytes": 169815,
+      "chapters": 9,
+      "title": "Edith Wharton — Ethan Frome (1911)",
+      "level": 6
+    },
+    {
+      "slug": "eugene-onegin",
+      "file": "books/eugene-onegin.json",
+      "bytes": 248955,
+      "chapters": 62,
+      "title": "Alexander Pushkin — Eugene Onegin (1833)",
+      "level": 6
+    },
+    {
+      "slug": "eugene-rougon",
+      "file": "books/eugene-rougon.json",
+      "bytes": 839241,
+      "chapters": 14,
+      "title": "Émile Zola — His Excellency Eugène Rougon (1876)",
+      "level": 6
+    },
+    {
+      "slug": "eugenie-grandet",
+      "file": "books/eugenie-grandet.json",
+      "bytes": 386070,
+      "chapters": 14,
+      "title": "Honoré de Balzac — Eugénie Grandet (1833)",
+      "level": 6
+    },
+    {
+      "slug": "far-from-the-madding-crowd",
+      "file": "books/far-from-the-madding-crowd.json",
+      "bytes": 705878,
+      "chapters": 56,
+      "title": "Thomas Hardy — Far from the Madding Crowd (1874)",
+      "level": 6
+    },
+    {
+      "slug": "father-brown-incredulity",
+      "file": "books/father-brown-incredulity.json",
+      "bytes": 355708,
+      "chapters": 8,
+      "title": "G. K. Chesterton — The Secret of Father Brown (1927)",
+      "level": 6
+    },
+    {
+      "slug": "father-brown-innocence",
+      "file": "books/father-brown-innocence.json",
+      "bytes": 453268,
+      "chapters": 12,
+      "title": "G.K. Chesterton — The Innocence of Father Brown (1911)",
+      "level": 6
+    },
+    {
+      "slug": "father-brown-wisdom",
+      "file": "books/father-brown-wisdom.json",
+      "bytes": 411603,
+      "chapters": 13,
+      "title": "G.K. Chesterton — The Wisdom of Father Brown (1914)",
+      "level": 6
+    },
+    {
+      "slug": "fathers-and-sons",
+      "file": "books/fathers-and-sons.json",
+      "bytes": 414867,
+      "chapters": 28,
+      "title": "Ivan Turgenev — Fathers and Sons (1862)",
+      "level": 6
+    },
+    {
+      "slug": "faust",
+      "file": "books/faust.json",
+      "bytes": 191691,
+      "chapters": 25,
+      "title": "Goethe — Faust (1808)",
+      "level": 6
+    },
+    {
+      "slug": "first-men-in-the-moon",
+      "file": "books/first-men-in-the-moon.json",
+      "bytes": 394182,
+      "chapters": 26,
+      "title": "H. G. Wells — The First Men in the Moon (1901)",
+      "level": 6
+    },
+    {
+      "slug": "five-children-and-it",
+      "file": "books/five-children-and-it.json",
+      "bytes": 291609,
+      "chapters": 11,
+      "title": "E. Nesbit — Five Children and It (1902)",
+      "level": 6
+    },
+    {
+      "slug": "five-weeks-in-a-balloon",
+      "file": "books/five-weeks-in-a-balloon.json",
+      "bytes": 548947,
+      "chapters": 44,
+      "title": "Jules Verne — Five Weeks in a Balloon (1863)",
+      "level": 6
+    },
+    {
+      "slug": "flatland",
+      "file": "books/flatland.json",
+      "bytes": 193972,
+      "chapters": 26,
+      "title": "Edwin A. Abbott — Flatland (1884)",
+      "level": 6
+    },
+    {
+      "slug": "food-of-the-gods",
+      "file": "books/food-of-the-gods.json",
+      "bytes": 433175,
+      "chapters": 14,
+      "title": "H. G. Wells — The Food of the Gods (1904)",
+      "level": 6
+    },
+    {
+      "slug": "frankenstein",
+      "file": "books/frankenstein.json",
+      "bytes": 428317,
+      "chapters": 28,
+      "title": "Mary Shelley — Frankenstein (1818)",
+      "level": 6
+    },
+    {
+      "slug": "from-earth-to-moon",
+      "file": "books/from-earth-to-moon.json",
+      "bytes": 354765,
+      "chapters": 28,
+      "title": "Jules Verne — From the Earth to the Moon (1865)",
+      "level": 6
+    },
+    {
+      "slug": "germinal",
+      "file": "books/germinal.json",
+      "bytes": 490554,
+      "chapters": 8,
+      "title": "Émile Zola — Germinal (1885)",
+      "level": 6
+    },
+    {
+      "slug": "ghost-stories-antiquary",
+      "file": "books/ghost-stories-antiquary.json",
+      "bytes": 254396,
+      "chapters": 8,
+      "title": "M.R. James — Ghost Stories of an Antiquary (1904)",
+      "level": 6
+    },
+    {
+      "slug": "gitanjali",
+      "file": "books/gitanjali.json",
+      "bytes": 96224,
+      "chapters": 105,
+      "title": "Rabindranath Tagore — Gitanjali (1912)",
+      "level": 6
+    },
+    {
+      "slug": "gods-of-mars",
+      "file": "books/gods-of-mars.json",
+      "bytes": 455534,
+      "chapters": 22,
+      "title": "Edgar Rice Burroughs — The Gods of Mars (1913)",
+      "level": 6
+    },
+    {
+      "slug": "gosta-berlings-saga",
+      "file": "books/gosta-berlings-saga.json",
+      "bytes": 11811,
+      "chapters": 4,
+      "title": "Selma Lagerlöf — Gösta Berlings Saga (1891)",
+      "level": 6
+    },
+    {
+      "slug": "great-expectations",
+      "file": "books/great-expectations.json",
+      "bytes": 1035120,
+      "chapters": 59,
+      "title": "Charles Dickens — Great Expectations (1861)",
+      "level": 6
+    },
+    {
+      "slug": "great-gatsby",
+      "file": "books/great-gatsby.json",
+      "bytes": 283055,
+      "chapters": 9,
+      "title": "F. Scott Fitzgerald — The Great Gatsby (1925)",
+      "level": 6
+    },
+    {
+      "slug": "great-god-pan",
+      "file": "books/great-god-pan.json",
+      "bytes": 121581,
+      "chapters": 8,
+      "title": "Arthur Machen — The Great God Pan (1894)",
+      "level": 6
+    },
+    {
+      "slug": "greenmantle",
+      "file": "books/greenmantle.json",
+      "bytes": 533359,
+      "chapters": 22,
+      "title": "John Buchan — Greenmantle (1916)",
+      "level": 6
+    },
+    {
+      "slug": "growth-of-soil",
+      "file": "books/growth-of-soil.json",
+      "bytes": 776946,
+      "chapters": 30,
+      "title": "Knut Hamsun — Growth of the Soil (1917)",
+      "level": 6
+    },
+    {
+      "slug": "gullivers-travels",
+      "file": "books/gullivers-travels.json",
+      "bytes": 577162,
+      "chapters": 15,
+      "title": "Jonathan Swift — Gullivers Travels (1726)",
+      "level": 6
+    },
+    {
+      "slug": "hadji-murad",
+      "file": "books/hadji-murad.json",
+      "bytes": 227085,
+      "chapters": 17,
+      "title": "Leo Tolstoy — Hadji Murad (1912)",
+      "level": 6
+    },
+    {
+      "slug": "hamlet",
+      "file": "books/hamlet.json",
+      "bytes": 180888,
+      "chapters": 5,
+      "title": "William Shakespeare — Hamlet (c. 1601)",
+      "level": 6
+    },
+    {
+      "slug": "hans-brinker",
+      "file": "books/hans-brinker.json",
+      "bytes": 485861,
+      "chapters": 46,
+      "title": "Mary Mapes Dodge — Hans Brinker (1865)",
+      "level": 6
+    },
+    {
+      "slug": "happy-prince",
+      "file": "books/happy-prince.json",
+      "bytes": 90275,
+      "chapters": 5,
+      "title": "Oscar Wilde — The Happy Prince (1888)",
+      "level": 6
+    },
+    {
+      "slug": "hard-times",
+      "file": "books/hard-times.json",
+      "bytes": 434229,
+      "chapters": 16,
+      "title": "Charles Dickens — Hard Times (1854)",
+      "level": 6
+    },
+    {
+      "slug": "heart-of-darkness",
+      "file": "books/heart-of-darkness.json",
+      "bytes": 214826,
+      "chapters": 3,
+      "title": "Joseph Conrad — Heart of Darkness (1899)",
+      "level": 6
+    },
+    {
+      "slug": "heart-of-mid-lothian",
+      "file": "books/heart-of-mid-lothian.json",
+      "bytes": 1321427,
+      "chapters": 106,
+      "title": "Walter Scott — The Heart of Mid-Lothian (1818)",
+      "level": 6
+    },
+    {
+      "slug": "hedda-gabler",
+      "file": "books/hedda-gabler.json",
+      "bytes": 154822,
+      "chapters": 4,
+      "title": "Henrik Ibsen — Hedda Gabler (1890)",
+      "level": 6
+    },
+    {
+      "slug": "heidi",
+      "file": "books/heidi.json",
+      "bytes": 496392,
+      "chapters": 23,
+      "title": "Johanna Spyri — Heidi (1881)",
+      "level": 6
+    },
+    {
+      "slug": "henry-v",
+      "file": "books/henry-v.json",
+      "bytes": 152875,
+      "chapters": 5,
+      "title": "Shakespeare — Henry V (1599)",
+      "level": 6
+    },
+    {
+      "slug": "herland",
+      "file": "books/herland.json",
+      "bytes": 306560,
+      "chapters": 12,
+      "title": "Charlotte Perkins Gilman — Herland (1915)",
+      "level": 6
+    },
+    {
+      "slug": "hero-of-our-time",
+      "file": "books/hero-of-our-time.json",
+      "bytes": 338793,
+      "chapters": 26,
+      "title": "Mikhail Lermontov — A Hero of Our Time (1840)",
+      "level": 6
+    },
+    {
+      "slug": "herodotus",
+      "file": "books/herodotus.json",
+      "bytes": 1692576,
+      "chapters": 9,
+      "title": "Herodotus — The Histories (Tr. Macaulay)",
+      "level": 6
+    },
+    {
+      "slug": "hippolytus",
+      "file": "books/hippolytus.json",
+      "bytes": 75358,
+      "chapters": 1,
+      "title": "Euripides — Hippolytus (Tr. Murray)",
+      "level": 6
+    },
+    {
+      "slug": "his-last-bow",
+      "file": "books/his-last-bow.json",
+      "bytes": 332805,
+      "chapters": 7,
+      "title": "Arthur Conan Doyle — His Last Bow (1917)",
+      "level": 6
+    },
+    {
+      "slug": "history-of-mr-polly",
+      "file": "books/history-of-mr-polly.json",
+      "bytes": 403689,
+      "chapters": 20,
+      "title": "H. G. Wells — The History of Mr Polly (1910)",
+      "level": 6
+    },
+    {
+      "slug": "hound-of-the-baskervilles",
+      "file": "books/hound-of-the-baskervilles.json",
+      "bytes": 330235,
+      "chapters": 16,
+      "title": "Arthur Conan Doyle — The Hound of the Baskervilles (1902)",
+      "level": 6
+    },
+    {
+      "slug": "house-of-mirth",
+      "file": "books/house-of-mirth.json",
+      "bytes": 748305,
+      "chapters": 14,
+      "title": "Edith Wharton — The House of Mirth (1905)",
+      "level": 6
+    },
+    {
+      "slug": "house-of-seven-gables",
+      "file": "books/house-of-seven-gables.json",
+      "bytes": 610347,
+      "chapters": 21,
+      "title": "Nathaniel Hawthorne — The House of the Seven Gables (1851)",
+      "level": 6
+    },
+    {
+      "slug": "house-on-the-borderland",
+      "file": "books/house-on-the-borderland.json",
+      "bytes": 288142,
+      "chapters": 28,
+      "title": "William Hope Hodgson — The House on the Borderland (1908)",
+      "level": 6
+    },
+    {
+      "slug": "howards-end",
+      "file": "books/howards-end.json",
+      "bytes": 644016,
+      "chapters": 44,
+      "title": "E. M. Forster — Howards End (1910)",
+      "level": 6
+    },
+    {
+      "slug": "huckleberry-finn",
+      "file": "books/huckleberry-finn.json",
+      "bytes": 594306,
+      "chapters": 42,
+      "title": "Mark Twain — Huckleberry Finn (1884)",
+      "level": 6
+    },
+    {
+      "slug": "hunchback-of-notre-dame",
+      "file": "books/hunchback-of-notre-dame.json",
+      "bytes": 1079875,
+      "chapters": 18,
+      "title": "Victor Hugo — The Hunchback of Notre-Dame (1831)",
+      "level": 6
+    },
+    {
+      "slug": "hunger",
+      "file": "books/hunger.json",
+      "bytes": 22605,
+      "chapters": 4,
+      "title": "Knut Hamsun — Hunger (1890)",
+      "level": 6
+    },
+    {
+      "slug": "i-malavoglia",
+      "file": "books/i-malavoglia.json",
+      "bytes": 7273,
+      "chapters": 3,
+      "title": "Giovanni Verga — I Malavoglia (1881)",
+      "level": 6
+    },
+    {
+      "slug": "ideal-husband",
+      "file": "books/ideal-husband.json",
+      "bytes": 175895,
+      "chapters": 4,
+      "title": "Oscar Wilde — An Ideal Husband (1895)",
+      "level": 6
+    },
+    {
+      "slug": "iliad",
+      "file": "books/iliad.json",
+      "bytes": 1002489,
+      "chapters": 25,
+      "title": "Homer — The Iliad (Butler tr.)",
+      "level": 6
+    },
+    {
+      "slug": "importance-of-being-earnest",
+      "file": "books/importance-of-being-earnest.json",
+      "bytes": 118874,
+      "chapters": 3,
+      "title": "Oscar Wilde — The Importance of Being Earnest (1895)",
+      "level": 6
+    },
+    {
+      "slug": "in-a-glass-darkly",
+      "file": "books/in-a-glass-darkly.json",
+      "bytes": 659245,
+      "chapters": 22,
+      "title": "J. S. Le Fanu — In a Glass Darkly (1872)",
+      "level": 6
+    },
+    {
+      "slug": "in-search-castaways",
+      "file": "books/in-search-castaways.json",
+      "bytes": 829895,
+      "chapters": 60,
+      "title": "Jules Verne — In Search of the Castaways (1868)",
+      "level": 6
+    },
+    {
+      "slug": "in-the-midst-of-life",
+      "file": "books/in-the-midst-of-life.json",
+      "bytes": 442063,
+      "chapters": 26,
+      "title": "Ambrose Bierce — In the Midst of Life (1892)",
+      "level": 5
+    },
+    {
+      "slug": "inferno",
+      "file": "books/inferno.json",
+      "bytes": 215443,
+      "chapters": 34,
+      "title": "Dante Alighieri — Inferno (Longfellow tr.)",
+      "level": 6
+    },
+    {
+      "slug": "innocents-abroad",
+      "file": "books/innocents-abroad.json",
+      "bytes": 1093254,
+      "chapters": 62,
+      "title": "Mark Twain — The Innocents Abroad (1869)",
+      "level": 6
+    },
+    {
+      "slug": "invisible-man",
+      "file": "books/invisible-man.json",
+      "bytes": 287203,
+      "chapters": 27,
+      "title": "H. G. Wells — The Invisible Man (1897)",
+      "level": 6
+    },
+    {
+      "slug": "iron-heel",
+      "file": "books/iron-heel.json",
+      "bytes": 504151,
+      "chapters": 25,
+      "title": "Jack London — The Iron Heel (1908)",
+      "level": 6
+    },
+    {
+      "slug": "island-of-dr-moreau",
+      "file": "books/island-of-dr-moreau.json",
+      "bytes": 248400,
+      "chapters": 22,
+      "title": "H. G. Wells — The Island of Doctor Moreau (1896)",
+      "level": 6
+    },
+    {
+      "slug": "ivanhoe",
+      "file": "books/ivanhoe.json",
+      "bytes": 1091593,
+      "chapters": 47,
+      "title": "Walter Scott — Ivanhoe (1819)",
+      "level": 5
+    },
+    {
+      "slug": "jane-eyre",
+      "file": "books/jane-eyre.json",
+      "bytes": 2462083,
+      "chapters": 38,
+      "title": "Charlotte Brontë — Jane Eyre (1847)",
+      "level": 6
+    },
+    {
+      "slug": "jekyll-and-hyde",
+      "file": "books/jekyll-and-hyde.json",
+      "bytes": 143472,
+      "chapters": 9,
+      "title": "Robert Louis Stevenson — Dr Jekyll and Mr Hyde (1886)",
+      "level": 6
+    },
+    {
+      "slug": "john-barleycorn",
+      "file": "books/john-barleycorn.json",
+      "bytes": 364477,
+      "chapters": 39,
+      "title": "Jack London — John Barleycorn (1913)",
+      "level": 5
+    },
+    {
+      "slug": "jos-boys",
+      "file": "books/jos-boys.json",
+      "bytes": 474906,
+      "chapters": 14,
+      "title": "Louisa May Alcott — Jo's Boys (1886)",
+      "level": 6
+    },
+    {
+      "slug": "journey-center-earth",
+      "file": "books/journey-center-earth.json",
+      "bytes": 434402,
+      "chapters": 38,
+      "title": "Jules Verne — Journey to the Center of the Earth (1864)",
+      "level": 6
+    },
+    {
+      "slug": "jude-the-obscure",
+      "file": "books/jude-the-obscure.json",
+      "bytes": 826167,
+      "chapters": 16,
+      "title": "Thomas Hardy — Jude the Obscure (1895)",
+      "level": 6
+    },
+    {
+      "slug": "julius-caesar",
+      "file": "books/julius-caesar.json",
+      "bytes": 118103,
+      "chapters": 5,
+      "title": "Shakespeare — Julius Caesar (1599)",
+      "level": 6
+    },
+    {
+      "slug": "jungle-book",
+      "file": "books/jungle-book.json",
+      "bytes": 280694,
+      "chapters": 14,
+      "title": "Rudyard Kipling — The Jungle Book (1894)",
+      "level": 6
+    },
+    {
+      "slug": "just-so-stories",
+      "file": "books/just-so-stories.json",
+      "bytes": 164720,
+      "chapters": 11,
+      "title": "Rudyard Kipling — Just So Stories (1902)",
+      "level": 6
+    },
+    {
+      "slug": "kidnapped",
+      "file": "books/kidnapped.json",
+      "bytes": 428098,
+      "chapters": 30,
+      "title": "R. L. Stevenson — Kidnapped (1886)",
+      "level": 6
+    },
+    {
+      "slug": "kim",
+      "file": "books/kim.json",
+      "bytes": 600170,
+      "chapters": 15,
+      "title": "Rudyard Kipling — Kim (1901)",
+      "level": 6
+    },
+    {
+      "slug": "king-in-yellow",
+      "file": "books/king-in-yellow.json",
+      "bytes": 411597,
+      "chapters": 8,
+      "title": "Robert W. Chambers — The King in Yellow (1895)",
+      "level": 6
+    },
+    {
+      "slug": "king-lear",
+      "file": "books/king-lear.json",
+      "bytes": 157766,
+      "chapters": 6,
+      "title": "William Shakespeare — King Lear (c. 1605)",
+      "level": 6
+    },
+    {
+      "slug": "king-solomons-mines",
+      "file": "books/king-solomons-mines.json",
+      "bytes": 452631,
+      "chapters": 21,
+      "title": "H. Rider Haggard — King Solomon's Mines (1885)",
+      "level": 6
+    },
+    {
+      "slug": "kipps",
+      "file": "books/kipps.json",
+      "bytes": 336455,
+      "chapters": 20,
+      "title": "H. G. Wells — Kipps (1905)",
+      "level": 6
+    },
+    {
+      "slug": "korean-folk-tales",
+      "file": "books/korean-folk-tales.json",
+      "bytes": 647032,
+      "chapters": 28,
+      "title": "Im Bang & Yi Ryuk — Korean Folk Tales (Gale tr. 1913)",
+      "level": 4
+    },
+    {
+      "slug": "kreutzer-sonata",
+      "file": "books/kreutzer-sonata.json",
+      "bytes": 300235,
+      "chapters": 28,
+      "title": "Leo Tolstoy — The Kreutzer Sonata (1889)",
+      "level": 6
+    },
+    {
+      "slug": "kwaidan",
+      "file": "books/kwaidan.json",
+      "bytes": 198595,
+      "chapters": 20,
+      "title": "Lafcadio Hearn — Kwaidan (1904)",
+      "level": 5
+    },
+    {
+      "slug": "l-assommoir",
+      "file": "books/l-assommoir.json",
+      "bytes": 8090,
+      "chapters": 3,
+      "title": "Émile Zola — L'Assommoir (1877)",
+      "level": 6
+    },
+    {
+      "slug": "la-bete-humaine",
+      "file": "books/la-bete-humaine.json",
+      "bytes": 6652,
+      "chapters": 3,
+      "title": "Émile Zola — La Bête Humaine (1890)",
+      "level": 6
+    },
+    {
+      "slug": "ladies-paradise",
+      "file": "books/ladies-paradise.json",
+      "bytes": 962662,
+      "chapters": 15,
+      "title": "Émile Zola — The Ladies' Paradise (1883)",
+      "level": 6
+    },
+    {
+      "slug": "lady-audleys-secret",
+      "file": "books/lady-audleys-secret.json",
+      "bytes": 851368,
+      "chapters": 41,
+      "title": "Mary Elizabeth Braddon — Lady Audley's Secret (1862)",
+      "level": 6
+    },
+    {
+      "slug": "lady-susan",
+      "file": "books/lady-susan.json",
+      "bytes": 137238,
+      "chapters": 39,
+      "title": "Jane Austen — Lady Susan (1871)",
+      "level": 6
+    },
+    {
+      "slug": "lady-windermeres-fan",
+      "file": "books/lady-windermeres-fan.json",
+      "bytes": 113151,
+      "chapters": 4,
+      "title": "Oscar Wilde — Lady Windermere's Fan (1892)",
+      "level": 6
+    },
+    {
+      "slug": "last-of-the-mohicans",
+      "file": "books/last-of-the-mohicans.json",
+      "bytes": 858665,
+      "chapters": 33,
+      "title": "James Fenimore Cooper — The Last of the Mohicans (1826)",
+      "level": 6
+    },
+    {
+      "slug": "leavenworth-case",
+      "file": "books/leavenworth-case.json",
+      "bytes": 635351,
+      "chapters": 37,
+      "title": "Anna Katharine Green — The Leavenworth Case (1878)",
+      "level": 6
+    },
+    {
+      "slug": "leaves-of-grass",
+      "file": "books/leaves-of-grass.json",
+      "bytes": 710986,
+      "chapters": 34,
+      "title": "Walt Whitman — Leaves of Grass (1855)",
+      "level": 6
+    },
+    {
+      "slug": "legend-of-sleepy-hollow",
+      "file": "books/legend-of-sleepy-hollow.json",
+      "bytes": 70214,
+      "chapters": 1,
+      "title": "Washington Irving — The Legend of Sleepy Hollow (1820)",
+      "level": 6
+    },
+    {
+      "slug": "les-miserables",
+      "file": "books/les-miserables.json",
+      "bytes": 586023,
+      "chapters": 25,
+      "title": "Victor Hugo — Les Misérables (1862)",
+      "level": 6
+    },
+    {
+      "slug": "leviathan",
+      "file": "books/leviathan.json",
+      "bytes": 1216693,
+      "chapters": 59,
+      "title": "Thomas Hobbes — Leviathan (1651)",
+      "level": 6
+    },
+    {
+      "slug": "life-of-johnson",
+      "file": "books/life-of-johnson.json",
+      "bytes": 1218654,
+      "chapters": 6,
+      "title": "James Boswell — The Life of Samuel Johnson (1791)",
+      "level": 6
+    },
+    {
+      "slug": "life-on-the-mississippi",
+      "file": "books/life-on-the-mississippi.json",
+      "bytes": 818344,
+      "chapters": 64,
+      "title": "Mark Twain — Life on the Mississippi (1883)",
+      "level": 6
+    },
+    {
+      "slug": "little-dorrit",
+      "file": "books/little-dorrit.json",
+      "bytes": 978617,
+      "chapters": 36,
+      "title": "Charles Dickens — Little Dorrit (1857)",
+      "level": 6
+    },
+    {
+      "slug": "little-lord-fauntleroy",
+      "file": "books/little-lord-fauntleroy.json",
+      "bytes": 324787,
+      "chapters": 15,
+      "title": "Frances Hodgson Burnett — Little Lord Fauntleroy (1886)",
+      "level": 6
+    },
+    {
+      "slug": "little-men",
+      "file": "books/little-men.json",
+      "bytes": 2211710,
+      "chapters": 74,
+      "title": "Louisa May Alcott — Little Men (1871)",
+      "level": 6
+    },
+    {
+      "slug": "little-women",
+      "file": "books/little-women.json",
+      "bytes": 1038199,
+      "chapters": 24,
+      "title": "Louisa May Alcott — Little Women (1868)",
+      "level": 6
+    },
+    {
+      "slug": "looking-backward",
+      "file": "books/looking-backward.json",
+      "bytes": 446048,
+      "chapters": 28,
+      "title": "Edward Bellamy — Looking Backward (1888)",
+      "level": 5
+    },
+    {
+      "slug": "lord-arthur-savile",
+      "file": "books/lord-arthur-savile.json",
+      "bytes": 72332,
+      "chapters": 6,
+      "title": "Oscar Wilde — Lord Arthur Savile's Crime (1891)",
+      "level": 6
+    },
+    {
+      "slug": "lord-jim",
+      "file": "books/lord-jim.json",
+      "bytes": 726763,
+      "chapters": 45,
+      "title": "Joseph Conrad — Lord Jim (1900)",
+      "level": 6
+    },
+    {
+      "slug": "lost-illusions",
+      "file": "books/lost-illusions.json",
+      "bytes": 160292,
+      "chapters": 2,
+      "title": "Honoré de Balzac — Lost Illusions (1843)",
+      "level": 6
+    },
+    {
+      "slug": "lost-world",
+      "file": "books/lost-world.json",
+      "bytes": 425860,
+      "chapters": 16,
+      "title": "Arthur Conan Doyle — The Lost World (1912)",
+      "level": 6
+    },
+    {
+      "slug": "lysistrata",
+      "file": "books/lysistrata.json",
+      "bytes": 84231,
+      "chapters": 1,
+      "title": "Aristophanes — Lysistrata",
+      "level": 6
+    },
+    {
+      "slug": "macbeth",
+      "file": "books/macbeth.json",
+      "bytes": 106000,
+      "chapters": 5,
+      "title": "William Shakespeare — Macbeth (c. 1606)",
+      "level": 6
+    },
+    {
+      "slug": "madame-bovary",
+      "file": "books/madame-bovary.json",
+      "bytes": 667710,
+      "chapters": 17,
+      "title": "Gustave Flaubert — Madame Bovary (1857)",
+      "level": 6
+    },
+    {
+      "slug": "magnificent-ambersons",
+      "file": "books/magnificent-ambersons.json",
+      "bytes": 337395,
+      "chapters": 20,
+      "title": "Booth Tarkington — The Magnificent Ambersons (1918)",
+      "level": 6
+    },
+    {
+      "slug": "main-street",
+      "file": "books/main-street.json",
+      "bytes": 737871,
+      "chapters": 38,
+      "title": "Sinclair Lewis — Main Street (1920)",
+      "level": 6
+    },
+    {
+      "slug": "man-in-the-iron-mask",
+      "file": "books/man-in-the-iron-mask.json",
+      "bytes": 1024285,
+      "chapters": 61,
+      "title": "Alexandre Dumas — The Man in the Iron Mask (1850)",
+      "level": 6
+    },
+    {
+      "slug": "man-of-property",
+      "file": "books/man-of-property.json",
+      "bytes": 463299,
+      "chapters": 23,
+      "title": "John Galsworthy — The Man of Property (1906)",
+      "level": 6
+    },
+    {
+      "slug": "man-who-was-thursday",
+      "file": "books/man-who-was-thursday.json",
+      "bytes": 329655,
+      "chapters": 15,
+      "title": "G. K. Chesterton — The Man Who Was Thursday (1908)",
+      "level": 6
+    },
+    {
+      "slug": "manon-lescaut",
+      "file": "books/manon-lescaut.json",
+      "bytes": 93792,
+      "chapters": 5,
+      "title": "Abbé Prévost — Manon Lescaut (1731)",
+      "level": 6
+    },
+    {
+      "slug": "mansfield-park",
+      "file": "books/mansfield-park.json",
+      "bytes": 906341,
+      "chapters": 49,
+      "title": "Jane Austen — Mansfield Park (1814)",
+      "level": 6
+    },
+    {
+      "slug": "marble-faun",
+      "file": "books/marble-faun.json",
+      "bytes": 368573,
+      "chapters": 23,
+      "title": "Nathaniel Hawthorne — The Marble Faun (1860)",
+      "level": 6
+    },
+    {
+      "slug": "marianela",
+      "file": "books/marianela.json",
+      "bytes": 341689,
+      "chapters": 23,
+      "title": "Benito Pérez Galdós — Marianela (1878)",
+      "level": 6
+    },
+    {
+      "slug": "martin-chuzzlewit",
+      "file": "books/martin-chuzzlewit.json",
+      "bytes": 1930153,
+      "chapters": 24,
+      "title": "Charles Dickens — Martin Chuzzlewit (1844)",
+      "level": 6
+    },
+    {
+      "slug": "martin-eden",
+      "file": "books/martin-eden.json",
+      "bytes": 797124,
+      "chapters": 46,
+      "title": "Jack London — Martin Eden (1909)",
+      "level": 6
+    },
+    {
+      "slug": "mary-barton",
+      "file": "books/mary-barton.json",
+      "bytes": 812650,
+      "chapters": 35,
+      "title": "Elizabeth Gaskell — Mary Barton (1848)",
+      "level": 6
+    },
+    {
+      "slug": "mary-stuart",
+      "file": "books/mary-stuart.json",
+      "bytes": 204753,
+      "chapters": 5,
+      "title": "Friedrich Schiller — Mary Stuart (1800)",
+      "level": 6
+    },
+    {
+      "slug": "master-and-man",
+      "file": "books/master-and-man.json",
+      "bytes": 110739,
+      "chapters": 10,
+      "title": "Leo Tolstoy — Master and Man (1895)",
+      "level": 6
+    },
+    {
+      "slug": "master-of-ballantrae",
+      "file": "books/master-of-ballantrae.json",
+      "bytes": 6940,
+      "chapters": 3,
+      "title": "Robert Louis Stevenson — The Master of Ballantrae (1889)",
+      "level": 6
+    },
+    {
+      "slug": "mayor-of-casterbridge",
+      "file": "books/mayor-of-casterbridge.json",
+      "bytes": 681712,
+      "chapters": 45,
+      "title": "Thomas Hardy — The Mayor of Casterbridge (1886)",
+      "level": 6
+    },
+    {
+      "slug": "mcteague",
+      "file": "books/mcteague.json",
+      "bytes": 654430,
+      "chapters": 22,
+      "title": "Frank Norris — McTeague (1899)",
+      "level": 6
+    },
+    {
+      "slug": "measure-for-measure",
+      "file": "books/measure-for-measure.json",
+      "bytes": 72209,
+      "chapters": 5,
+      "title": "Shakespeare — Measure for Measure (1604)",
+      "level": 6
+    },
+    {
+      "slug": "medea",
+      "file": "books/medea.json",
+      "bytes": 7193,
+      "chapters": 2,
+      "title": "Euripides — Medea (c. 431 BC)",
+      "level": 6
+    },
+    {
+      "slug": "meditations",
+      "file": "books/meditations.json",
+      "bytes": 237356,
+      "chapters": 53,
+      "title": "Marcus Aurelius — Meditations",
+      "level": 6
+    },
+    {
+      "slug": "melmoth-the-wanderer",
+      "file": "books/melmoth-the-wanderer.json",
+      "bytes": 327965,
+      "chapters": 5,
+      "title": "melmoth-the-wanderer",
+      "level": 6
+    },
+    {
+      "slug": "merchant-of-venice",
+      "file": "books/merchant-of-venice.json",
+      "bytes": 120420,
+      "chapters": 1,
+      "title": "Shakespeare — The Merchant of Venice (1597)",
+      "level": 6
+    },
+    {
+      "slug": "metamorphoses-ovid",
+      "file": "books/metamorphoses-ovid.json",
+      "bytes": 1178237,
+      "chapters": 15,
+      "title": "Ovid — Metamorphoses (Tr. Riley)",
+      "level": 6
+    },
+    {
+      "slug": "metamorphosis",
+      "file": "books/metamorphosis.json",
+      "bytes": 254925,
+      "chapters": 3,
+      "title": "Franz Kafka — Metamorphosis (1915)",
+      "level": 6
+    },
+    {
+      "slug": "michael-strogoff",
+      "file": "books/michael-strogoff.json",
+      "bytes": 559140,
+      "chapters": 32,
+      "title": "Jules Verne — Michael Strogoff (1876)",
+      "level": 6
+    },
+    {
+      "slug": "middlemarch",
+      "file": "books/middlemarch.json",
+      "bytes": 1831274,
+      "chapters": 86,
+      "title": "George Eliot — Middlemarch (1871)",
+      "level": 6
+    },
+    {
+      "slug": "midsummer-nights-dream",
+      "file": "books/midsummer-nights-dream.json",
+      "bytes": 96859,
+      "chapters": 5,
+      "title": "Shakespeare — A Midsummer Night's Dream (1595)",
+      "level": 6
+    },
+    {
+      "slug": "mill-on-the-floss",
+      "file": "books/mill-on-the-floss.json",
+      "bytes": 1176956,
+      "chapters": 20,
+      "title": "George Eliot — The Mill on the Floss (1860)",
+      "level": 6
+    },
+    {
+      "slug": "miss-julie",
+      "file": "books/miss-julie.json",
+      "bytes": 9703,
+      "chapters": 1,
+      "title": "August Strindberg — Miss Julie (1888)",
+      "level": 6
+    },
+    {
+      "slug": "moby-dick",
+      "file": "books/moby-dick.json",
+      "bytes": 1240300,
+      "chapters": 139,
+      "title": "Herman Melville — Moby-Dick (1851)",
+      "level": 6
+    },
+    {
+      "slug": "moll-flanders",
+      "file": "books/moll-flanders.json",
+      "bytes": 712333,
+      "chapters": 42,
+      "title": "Daniel Defoe — Moll Flanders (1722)",
+      "level": 6
+    },
+    {
+      "slug": "moonstone",
+      "file": "books/moonstone.json",
+      "bytes": 923946,
+      "chapters": 24,
+      "title": "Wilkie Collins — The Moonstone (1868)",
+      "level": 6
+    },
+    {
+      "slug": "more-ghost-stories",
+      "file": "books/more-ghost-stories.json",
+      "bytes": 259902,
+      "chapters": 7,
+      "title": "M. R. James — More Ghost Stories (1911)",
+      "level": 6
+    },
+    {
+      "slug": "mr-standfast",
+      "file": "books/mr-standfast.json",
+      "bytes": 698030,
+      "chapters": 22,
+      "title": "John Buchan — Mr Standfast (1919)",
+      "level": 6
+    },
+    {
+      "slug": "much-ado-about-nothing",
+      "file": "books/much-ado-about-nothing.json",
+      "bytes": 124811,
+      "chapters": 5,
+      "title": "Shakespeare — Much Ado About Nothing (1599)",
+      "level": 6
+    },
+    {
+      "slug": "my-antonia",
+      "file": "books/my-antonia.json",
+      "bytes": 446302,
+      "chapters": 23,
+      "title": "Willa Cather — My Ántonia (1918)",
+      "level": 6
+    },
+    {
+      "slug": "mysteries-of-udolpho",
+      "file": "books/mysteries-of-udolpho.json",
+      "bytes": 1455785,
+      "chapters": 20,
+      "title": "Ann Radcliffe — The Mysteries of Udolpho (1794)",
+      "level": 6
+    },
+    {
+      "slug": "mysterious-island",
+      "file": "books/mysterious-island.json",
+      "bytes": 1138997,
+      "chapters": 24,
+      "title": "Jules Verne — The Mysterious Island (1875)",
+      "level": 6
+    },
+    {
+      "slug": "mysterious-stranger",
+      "file": "books/mysterious-stranger.json",
+      "bytes": 227608,
+      "chapters": 11,
+      "title": "Mark Twain — The Mysterious Stranger (1916)",
+      "level": 6
+    },
+    {
+      "slug": "mystery-of-yellow-room",
+      "file": "books/mystery-of-yellow-room.json",
+      "bytes": 116818,
+      "chapters": 7,
+      "title": "Gaston Leroux — The Mystery of the Yellow Room (1907)",
+      "level": 6
+    },
+    {
+      "slug": "nana",
+      "file": "books/nana.json",
+      "bytes": 890868,
+      "chapters": 15,
+      "title": "Émile Zola — Nana (1880)",
+      "level": 6
+    },
+    {
+      "slug": "narrative-of-frederick-douglass",
+      "file": "books/narrative-of-frederick-douglass.json",
+      "bytes": 201404,
+      "chapters": 11,
+      "title": "Frederick Douglass — Narrative (1845)",
+      "level": 6
+    },
+    {
+      "slug": "new-grub-street",
+      "file": "books/new-grub-street.json",
+      "bytes": 563142,
+      "chapters": 20,
+      "title": "George Gissing — New Grub Street (1891)",
+      "level": 6
+    },
+    {
+      "slug": "news-from-nowhere",
+      "file": "books/news-from-nowhere.json",
+      "bytes": 432253,
+      "chapters": 31,
+      "title": "William Morris — News from Nowhere (1890)",
+      "level": 6
+    },
+    {
+      "slug": "nicholas-nickleby",
+      "file": "books/nicholas-nickleby.json",
+      "bytes": 1906386,
+      "chapters": 65,
+      "title": "Charles Dickens — Nicholas Nickleby (1839)",
+      "level": 6
+    },
+    {
+      "slug": "night-land",
+      "file": "books/night-land.json",
+      "bytes": 992309,
+      "chapters": 17,
+      "title": "William Hope Hodgson — The Night Land (1912)",
+      "level": 6
+    },
+    {
+      "slug": "ninety-three",
+      "file": "books/ninety-three.json",
+      "bytes": 735710,
+      "chapters": 61,
+      "title": "Victor Hugo — Ninety-Three (1874)",
+      "level": 6
+    },
+    {
+      "slug": "no-name",
+      "file": "books/no-name.json",
+      "bytes": 1224584,
+      "chapters": 15,
+      "title": "Wilkie Collins — No Name (1862)",
+      "level": 6
+    },
+    {
+      "slug": "north-and-south",
+      "file": "books/north-and-south.json",
+      "bytes": 1028392,
+      "chapters": 53,
+      "title": "Elizabeth Gaskell — North and South (1854)",
+      "level": 6
+    },
+    {
+      "slug": "northanger-abbey",
+      "file": "books/northanger-abbey.json",
+      "bytes": 446967,
+      "chapters": 31,
+      "title": "Jane Austen — Northanger Abbey (1817)",
+      "level": 6
+    },
+    {
+      "slug": "nostromo",
+      "file": "books/nostromo.json",
+      "bytes": 969068,
+      "chapters": 15,
+      "title": "Joseph Conrad — Nostromo (1904)",
+      "level": 6
+    },
+    {
+      "slug": "notes-from-underground",
+      "file": "books/notes-from-underground.json",
+      "bytes": 245314,
+      "chapters": 12,
+      "title": "Fyodor Dostoevsky — Notes from Underground (1864)",
+      "level": 6
+    },
+    {
+      "slug": "o-henry-four-million",
+      "file": "books/o-henry-four-million.json",
+      "bytes": 286207,
+      "chapters": 20,
+      "title": "O. Henry — The Four Million (1906)",
+      "level": 6
+    },
+    {
+      "slug": "o-henry-gift-of-the-magi",
+      "file": "books/o-henry-gift-of-the-magi.json",
+      "bytes": 11774,
+      "chapters": 1,
+      "title": "O. Henry — The Gift of the Magi (1905)",
+      "level": 6
+    },
+    {
+      "slug": "o-pioneers",
+      "file": "books/o-pioneers.json",
+      "bytes": 309113,
+      "chapters": 16,
+      "title": "Willa Cather — O Pioneers! (1913)",
+      "level": 6
+    },
+    {
+      "slug": "oblomov",
+      "file": "books/oblomov.json",
+      "bytes": 11388,
+      "chapters": 4,
+      "title": "Ivan Goncharov — Oblomov (1859)",
+      "level": 6
+    },
+    {
+      "slug": "odyssey",
+      "file": "books/odyssey.json",
+      "bytes": 676399,
+      "chapters": 24,
+      "title": "Homer — The Odyssey (Butler tr.)",
+      "level": 6
+    },
+    {
+      "slug": "oedipus-rex",
+      "file": "books/oedipus-rex.json",
+      "bytes": 9516,
+      "chapters": 3,
+      "title": "Sophocles — Oedipus Rex (c. 429 BC)",
+      "level": 6
+    },
+    {
+      "slug": "old-curiosity-shop",
+      "file": "books/old-curiosity-shop.json",
+      "bytes": 1257742,
+      "chapters": 73,
+      "title": "Charles Dickens — The Old Curiosity Shop (1841)",
+      "level": 6
+    },
+    {
+      "slug": "oliver-twist",
+      "file": "books/oliver-twist.json",
+      "bytes": 928428,
+      "chapters": 53,
+      "title": "Charles Dickens — Oliver Twist (1838)",
+      "level": 6
+    },
+    {
+      "slug": "on-liberty",
+      "file": "books/on-liberty.json",
+      "bytes": 282373,
+      "chapters": 5,
+      "title": "John Stuart Mill — On Liberty (1859)",
+      "level": 6
+    },
+    {
+      "slug": "oresteia",
+      "file": "books/oresteia.json",
+      "bytes": 10229,
+      "chapters": 3,
+      "title": "Aeschylus — The Oresteia: Agamemnon (458 BC)",
+      "level": 6
+    },
+    {
+      "slug": "os-lusiadas",
+      "file": "books/os-lusiadas.json",
+      "bytes": 792995,
+      "chapters": 10,
+      "title": "Luís de Camões — The Lusiads (1572)",
+      "level": 6
+    },
+    {
+      "slug": "othello",
+      "file": "books/othello.json",
+      "bytes": 157301,
+      "chapters": 5,
+      "title": "William Shakespeare — Othello (c. 1604)",
+      "level": 6
+    },
+    {
+      "slug": "our-mutual-friend",
+      "file": "books/our-mutual-friend.json",
+      "bytes": 1033353,
+      "chapters": 18,
+      "title": "Charles Dickens — Our Mutual Friend (1865)",
+      "level": 6
+    },
+    {
+      "slug": "pair-of-blue-eyes",
+      "file": "books/pair-of-blue-eyes.json",
+      "bytes": 762580,
+      "chapters": 40,
+      "title": "Thomas Hardy — A Pair of Blue Eyes (1873)",
+      "level": 6
+    },
+    {
+      "slug": "pamela",
+      "file": "books/pamela.json",
+      "bytes": 1171483,
+      "chapters": 81,
+      "title": "Samuel Richardson — Pamela (1740)",
+      "level": 6
+    },
+    {
+      "slug": "pan",
+      "file": "books/pan.json",
+      "bytes": 10617,
+      "chapters": 3,
+      "title": "Knut Hamsun — Pan (1894)",
+      "level": 6
+    },
+    {
+      "slug": "paradise-lost",
+      "file": "books/paradise-lost.json",
+      "bytes": 461128,
+      "chapters": 12,
+      "title": "John Milton — Paradise Lost (1667)",
+      "level": 6
+    },
+    {
+      "slug": "paradiso",
+      "file": "books/paradiso.json",
+      "bytes": 216481,
+      "chapters": 33,
+      "title": "Dante Alighieri — Paradiso (Longfellow tr.)",
+      "level": 6
+    },
+    {
+      "slug": "passing-of-korea",
+      "file": "books/passing-of-korea.json",
+      "bytes": 450653,
+      "chapters": 33,
+      "title": "Homer Hulbert — The Passing of Korea (1906)",
+      "level": 6
+    },
+    {
+      "slug": "pellucidar",
+      "file": "books/pellucidar.json",
+      "bytes": 305226,
+      "chapters": 15,
+      "title": "Edgar Rice Burroughs — Pellucidar (1923)",
+      "level": 5
+    },
+    {
+      "slug": "pepys-diary",
+      "file": "books/pepys-diary.json",
+      "bytes": 6627040,
+      "chapters": 12,
+      "title": "Samuel Pepys — Diary (1660-1669)",
+      "level": 6
+    },
+    {
+      "slug": "pere-goriot",
+      "file": "books/pere-goriot.json",
+      "bytes": 581555,
+      "chapters": 1,
+      "title": "Honoré de Balzac — Père Goriot (1835)",
+      "level": 6
+    },
+    {
+      "slug": "persuasion",
+      "file": "books/persuasion.json",
+      "bytes": 475203,
+      "chapters": 24,
+      "title": "Jane Austen — Persuasion (1817)",
+      "level": 6
+    },
+    {
+      "slug": "peter-pan",
+      "file": "books/peter-pan.json",
+      "bytes": 267098,
+      "chapters": 17,
+      "title": "J. M. Barrie — Peter Pan (1911)",
+      "level": 6
+    },
+    {
+      "slug": "phantom-of-the-opera",
+      "file": "books/phantom-of-the-opera.json",
+      "bytes": 1085437,
+      "chapters": 28,
+      "title": "Gaston Leroux — The Phantom of the Opera (1910)",
+      "level": 6
+    },
+    {
+      "slug": "pickwick-papers",
+      "file": "books/pickwick-papers.json",
+      "bytes": 1814242,
+      "chapters": 58,
+      "title": "Charles Dickens — The Pickwick Papers (1837)",
+      "level": 6
+    },
+    {
+      "slug": "pierre-and-jean",
+      "file": "books/pierre-and-jean.json",
+      "bytes": 258532,
+      "chapters": 9,
+      "title": "Guy de Maupassant — Pierre and Jean (1888)",
+      "level": 6
+    },
+    {
+      "slug": "pinocchio",
+      "file": "books/pinocchio.json",
+      "bytes": 229336,
+      "chapters": 36,
+      "title": "Carlo Collodi — Pinocchio (1883)",
+      "level": 6
+    },
+    {
+      "slug": "plato-apology",
+      "file": "books/plato-apology.json",
+      "bytes": 86688,
+      "chapters": 2,
+      "title": "Plato — Apology (Jowett tr.)",
+      "level": 6
+    },
+    {
+      "slug": "plato-phaedo",
+      "file": "books/plato-phaedo.json",
+      "bytes": 211758,
+      "chapters": 21,
+      "title": "Plato — Phaedo (Jowett tr.)",
+      "level": 6
+    },
+    {
+      "slug": "plato-symposium",
+      "file": "books/plato-symposium.json",
+      "bytes": 178880,
+      "chapters": 2,
+      "title": "Plato — The Symposium (Jowett tr.)",
+      "level": 6
+    },
+    {
+      "slug": "plutarchs-lives",
+      "file": "books/plutarchs-lives.json",
+      "bytes": 1018538,
+      "chapters": 15,
+      "title": "Plutarch — Lives (Tr. Stewart & Long)",
+      "level": 6
+    },
+    {
+      "slug": "poe-tales",
+      "file": "books/poe-tales.json",
+      "bytes": 77115,
+      "chapters": 45,
+      "title": "Edgar Allan Poe — Tales (1842)",
+      "level": 6
+    },
+    {
+      "slug": "poil-de-carotte",
+      "file": "books/poil-de-carotte.json",
+      "bytes": 27230,
+      "chapters": 26,
+      "title": "Jules Renard — Carrots (1894)",
+      "level": 6
+    },
+    {
+      "slug": "poison-belt",
+      "file": "books/poison-belt.json",
+      "bytes": 165925,
+      "chapters": 6,
+      "title": "Arthur Conan Doyle — The Poison Belt (1913)",
+      "level": 6
+    },
+    {
+      "slug": "pollyanna",
+      "file": "books/pollyanna.json",
+      "bytes": 329520,
+      "chapters": 32,
+      "title": "Eleanor H. Porter — Pollyanna (1913)",
+      "level": 6
+    },
+    {
+      "slug": "pollyanna-grows-up",
+      "file": "books/pollyanna-grows-up.json",
+      "bytes": 423777,
+      "chapters": 32,
+      "title": "pollyanna-grows-up",
+      "level": 6
+    },
+    {
+      "slug": "portrait-of-a-lady",
+      "file": "books/portrait-of-a-lady.json",
+      "bytes": 1302683,
+      "chapters": 55,
+      "title": "Henry James — The Portrait of a Lady (1881)",
+      "level": 6
+    },
+    {
+      "slug": "portrait-of-the-artist",
+      "file": "books/portrait-of-the-artist.json",
+      "bytes": 469128,
+      "chapters": 5,
+      "title": "James Joyce — A Portrait of the Artist as a Young Man (1916)",
+      "level": 6
+    },
+    {
+      "slug": "pot-bouille",
+      "file": "books/pot-bouille.json",
+      "bytes": 764824,
+      "chapters": 18,
+      "title": "Émile Zola — Pot-Bouille (1882)",
+      "level": 6
+    },
+    {
+      "slug": "pride-and-prejudice",
+      "file": "books/pride-and-prejudice.json",
+      "bytes": 1612112,
+      "chapters": 61,
+      "title": "Jane Austen — Pride and Prejudice (1813)",
+      "level": 6
+    },
+    {
+      "slug": "prince-and-the-pauper",
+      "file": "books/prince-and-the-pauper.json",
+      "bytes": 400180,
+      "chapters": 32,
+      "title": "Mark Twain — The Prince and the Pauper (1881)",
+      "level": 6
+    },
+    {
+      "slug": "princess-and-curdie",
+      "file": "books/princess-and-curdie.json",
+      "bytes": 307321,
+      "chapters": 35,
+      "title": "George MacDonald — The Princess and Curdie (1883)",
+      "level": 6
+    },
+    {
+      "slug": "princess-and-the-goblin",
+      "file": "books/princess-and-the-goblin.json",
+      "bytes": 282401,
+      "chapters": 32,
+      "title": "George MacDonald — The Princess and the Goblin (1872)",
+      "level": 6
+    },
+    {
+      "slug": "princess-of-mars",
+      "file": "books/princess-of-mars.json",
+      "bytes": 372814,
+      "chapters": 28,
+      "title": "Edgar Rice Burroughs — A Princess of Mars (1912)",
+      "level": 6
+    },
+    {
+      "slug": "prisoner-of-zenda",
+      "file": "books/prisoner-of-zenda.json",
+      "bytes": 302566,
+      "chapters": 22,
+      "title": "Anthony Hope — The Prisoner of Zenda (1894)",
+      "level": 6
+    },
+    {
+      "slug": "puddnhead-wilson",
+      "file": "books/puddnhead-wilson.json",
+      "bytes": 299690,
+      "chapters": 31,
+      "title": "Mark Twain — Pudd'nhead Wilson (1894)",
+      "level": 6
+    },
+    {
+      "slug": "purgatorio",
+      "file": "books/purgatorio.json",
+      "bytes": 216553,
+      "chapters": 33,
+      "title": "Dante Alighieri — Purgatorio (Longfellow tr.)",
+      "level": 6
+    },
+    {
+      "slug": "pygmalion",
+      "file": "books/pygmalion.json",
+      "bytes": 184095,
+      "chapters": 5,
+      "title": "George Bernard Shaw — Pygmalion (1913)",
+      "level": 6
+    },
+    {
+      "slug": "queen-of-spades",
+      "file": "books/queen-of-spades.json",
+      "bytes": 20588,
+      "chapters": 1,
+      "title": "Alexander Pushkin — The Queen of Spades (1834)",
+      "level": 6
+    },
+    {
+      "slug": "railway-children",
+      "file": "books/railway-children.json",
+      "bytes": 339177,
+      "chapters": 14,
+      "title": "E. Nesbit — The Railway Children (1906)",
+      "level": 6
+    },
+    {
+      "slug": "rebecca-of-sunnybrook-farm",
+      "file": "books/rebecca-of-sunnybrook-farm.json",
+      "bytes": 259846,
+      "chapters": 32,
+      "title": "Kate Douglas Wiggin — Rebecca of Sunnybrook Farm (1903)",
+      "level": 6
+    },
+    {
+      "slug": "red-and-the-black",
+      "file": "books/red-and-the-black.json",
+      "bytes": 1085498,
+      "chapters": 74,
+      "title": "Stendhal — The Red and the Black (1830 / Adams tr.)",
+      "level": 6
+    },
+    {
+      "slug": "red-badge-of-courage",
+      "file": "books/red-badge-of-courage.json",
+      "bytes": 270138,
+      "chapters": 24,
+      "title": "Stephen Crane — The Red Badge of Courage (1895)",
+      "level": 6
+    },
+    {
+      "slug": "resurrection",
+      "file": "books/resurrection.json",
+      "bytes": 981581,
+      "chapters": 64,
+      "title": "Leo Tolstoy — Resurrection (1899)",
+      "level": 6
+    },
+    {
+      "slug": "return-of-tarzan",
+      "file": "books/return-of-tarzan.json",
+      "bytes": 508005,
+      "chapters": 27,
+      "title": "Edgar Rice Burroughs — The Return of Tarzan (1913)",
+      "level": 6
+    },
+    {
+      "slug": "return-of-the-native",
+      "file": "books/return-of-the-native.json",
+      "bytes": 805923,
+      "chapters": 16,
+      "title": "Thomas Hardy — The Return of the Native (1878)",
+      "level": 6
+    },
+    {
+      "slug": "richard-iii",
+      "file": "books/richard-iii.json",
+      "bytes": 177757,
+      "chapters": 5,
+      "title": "Shakespeare — Richard III (1593)",
+      "level": 6
+    },
+    {
+      "slug": "riddle-of-the-sands",
+      "file": "books/riddle-of-the-sands.json",
+      "bytes": 622449,
+      "chapters": 28,
+      "title": "Erskine Childers — The Riddle of the Sands (1903)",
+      "level": 6
+    },
+    {
+      "slug": "rights-of-man",
+      "file": "books/rights-of-man.json",
+      "bytes": 508428,
+      "chapters": 11,
+      "title": "Thomas Paine — The Rights of Man (1791)",
+      "level": 6
+    },
+    {
+      "slug": "rise-of-silas-lapham",
+      "file": "books/rise-of-silas-lapham.json",
+      "bytes": 735588,
+      "chapters": 27,
+      "title": "William Dean Howells — The Rise of Silas Lapham (1885)",
+      "level": 6
+    },
+    {
+      "slug": "rob-roy",
+      "file": "books/rob-roy.json",
+      "bytes": 951491,
+      "chapters": 39,
+      "title": "Walter Scott — Rob Roy (1817)",
+      "level": 6
+    },
+    {
+      "slug": "robinson-crusoe",
+      "file": "books/robinson-crusoe.json",
+      "bytes": 628558,
+      "chapters": 20,
+      "title": "Daniel Defoe — Robinson Crusoe (1719)",
+      "level": 6
+    },
+    {
+      "slug": "romeo-and-juliet",
+      "file": "books/romeo-and-juliet.json",
+      "bytes": 143734,
+      "chapters": 5,
+      "title": "Shakespeare — Romeo and Juliet (1597)",
+      "level": 6
+    },
+    {
+      "slug": "room-with-a-view",
+      "file": "books/room-with-a-view.json",
+      "bytes": 393271,
+      "chapters": 20,
+      "title": "E. M. Forster — A Room with a View (1908)",
+      "level": 6
+    },
+    {
+      "slug": "roughing-it",
+      "file": "books/roughing-it.json",
+      "bytes": 957536,
+      "chapters": 84,
+      "title": "Mark Twain — Roughing It (1872)",
+      "level": 6
+    },
+    {
+      "slug": "roxana",
+      "file": "books/roxana.json",
+      "bytes": 837827,
+      "chapters": 50,
+      "title": "Daniel Defoe — Roxana (1724)",
+      "level": 6
+    },
+    {
+      "slug": "salambo",
+      "file": "books/salambo.json",
+      "bytes": 619148,
+      "chapters": 15,
+      "title": "Gustave Flaubert — Salammbô (1862)",
+      "level": 6
+    },
+    {
+      "slug": "salome",
+      "file": "books/salome.json",
+      "bytes": 71147,
+      "chapters": 1,
+      "title": "Oscar Wilde — Salome (1893, Douglas tr.)",
+      "level": 6
+    },
+    {
+      "slug": "scarlet-letter",
+      "file": "books/scarlet-letter.json",
+      "bytes": 408616,
+      "chapters": 24,
+      "title": "Nathaniel Hawthorne — The Scarlet Letter (1850)",
+      "level": 6
+    },
+    {
+      "slug": "scarlet-pimpernel",
+      "file": "books/scarlet-pimpernel.json",
+      "bytes": 504913,
+      "chapters": 31,
+      "title": "Baroness Orczy — The Scarlet Pimpernel (1905)",
+      "level": 6
+    },
+    {
+      "slug": "sea-wolf",
+      "file": "books/sea-wolf.json",
+      "bytes": 596225,
+      "chapters": 39,
+      "title": "Jack London — The Sea-Wolf (1904)",
+      "level": 6
+    },
+    {
+      "slug": "secret-agent",
+      "file": "books/secret-agent.json",
+      "bytes": 530145,
+      "chapters": 13,
+      "title": "Joseph Conrad — The Secret Agent (1907)",
+      "level": 6
+    },
+    {
+      "slug": "secret-garden",
+      "file": "books/secret-garden.json",
+      "bytes": 453823,
+      "chapters": 27,
+      "title": "Frances Hodgson Burnett — The Secret Garden (1911)",
+      "level": 6
+    },
+    {
+      "slug": "sense-and-sensibility",
+      "file": "books/sense-and-sensibility.json",
+      "bytes": 693660,
+      "chapters": 50,
+      "title": "Jane Austen — Sense and Sensibility (1811)",
+      "level": 6
+    },
+    {
+      "slug": "sentimental-education",
+      "file": "books/sentimental-education.json",
+      "bytes": 901088,
+      "chapters": 3,
+      "title": "Gustave Flaubert — Sentimental Education (1869)",
+      "level": 6
+    },
+    {
+      "slug": "she",
+      "file": "books/she.json",
+      "bytes": 613475,
+      "chapters": 29,
+      "title": "H. Rider Haggard — She (1887)",
+      "level": 6
+    },
+    {
+      "slug": "sherlock-adventures",
+      "file": "books/sherlock-adventures.json",
+      "bytes": 580763,
+      "chapters": 12,
+      "title": "Arthur Conan Doyle — Adventures of Sherlock Holmes (1892)",
+      "level": 6
+    },
+    {
+      "slug": "sherlock-memoirs",
+      "file": "books/sherlock-memoirs.json",
+      "bytes": 835076,
+      "chapters": 38,
+      "title": "Arthur Conan Doyle — The Memoirs of Sherlock Holmes (1894)",
+      "level": 6
+    },
+    {
+      "slug": "sherlock-return",
+      "file": "books/sherlock-return.json",
+      "bytes": 580715,
+      "chapters": 12,
+      "title": "Arthur Conan Doyle — The Return of Sherlock Holmes (1905)",
+      "level": 6
+    },
+    {
+      "slug": "sherlock-sign-of-four",
+      "file": "books/sherlock-sign-of-four.json",
+      "bytes": 240110,
+      "chapters": 12,
+      "title": "Arthur Conan Doyle — The Sign of the Four (1890)",
+      "level": 6
+    },
+    {
+      "slug": "silas-marner",
+      "file": "books/silas-marner.json",
+      "bytes": 407456,
+      "chapters": 20,
+      "title": "George Eliot — Silas Marner (1861)",
+      "level": 6
+    },
+    {
+      "slug": "sister-carrie",
+      "file": "books/sister-carrie.json",
+      "bytes": 915469,
+      "chapters": 47,
+      "title": "Theodore Dreiser — Sister Carrie (1900)",
+      "level": 6
+    },
+    {
+      "slug": "six-characters",
+      "file": "books/six-characters.json",
+      "bytes": 7458,
+      "chapters": 3,
+      "title": "Luigi Pirandello — Six Characters in Search of an Author (1921)",
+      "level": 6
+    },
+    {
+      "slug": "sketch-book-irving",
+      "file": "books/sketch-book-irving.json",
+      "bytes": 751495,
+      "chapters": 36,
+      "title": "Washington Irving — The Sketch Book (1820)",
+      "level": 6
+    },
+    {
+      "slug": "sketches-by-boz",
+      "file": "books/sketches-by-boz.json",
+      "bytes": 1236697,
+      "chapters": 26,
+      "title": "Charles Dickens — Sketches by Boz (1836)",
+      "level": 6
+    },
+    {
+      "slug": "smoke-turgenev",
+      "file": "books/smoke-turgenev.json",
+      "bytes": 382015,
+      "chapters": 28,
+      "title": "Ivan Turgenev — Smoke (1867)",
+      "level": 6
+    },
+    {
+      "slug": "song-of-hiawatha",
+      "file": "books/song-of-hiawatha.json",
+      "bytes": 189763,
+      "chapters": 22,
+      "title": "Henry Wadsworth Longfellow — The Song of Hiawatha (1855)",
+      "level": 5
+    },
+    {
+      "slug": "sons-and-lovers",
+      "file": "books/sons-and-lovers.json",
+      "bytes": 922136,
+      "chapters": 15,
+      "title": "D. H. Lawrence — Sons and Lovers (1913)",
+      "level": 6
+    },
+    {
+      "slug": "sorrows-of-young-werther",
+      "file": "books/sorrows-of-young-werther.json",
+      "bytes": 236607,
+      "chapters": 2,
+      "title": "Goethe — The Sorrows of Young Werther (1774)",
+      "level": 6
+    },
+    {
+      "slug": "sportsmans-sketches",
+      "file": "books/sportsmans-sketches.json",
+      "bytes": 344815,
+      "chapters": 8,
+      "title": "Ivan Turgenev — A Sportsman's Sketches (1852)",
+      "level": 6
+    },
+    {
+      "slug": "study-in-scarlet",
+      "file": "books/study-in-scarlet.json",
+      "bytes": 246483,
+      "chapters": 9,
+      "title": "Arthur Conan Doyle — A Study in Scarlet (1887)",
+      "level": 6
+    },
+    {
+      "slug": "swiss-family-robinson",
+      "file": "books/swiss-family-robinson.json",
+      "bytes": 707684,
+      "chapters": 18,
+      "title": "Johann David Wyss — Swiss Family Robinson (1812)",
+      "level": 6
+    },
+    {
+      "slug": "tale-of-two-cities",
+      "file": "books/tale-of-two-cities.json",
+      "bytes": 784145,
+      "chapters": 45,
+      "title": "Charles Dickens — A Tale of Two Cities (1859)",
+      "level": 6
+    },
+    {
+      "slug": "tales-of-a-traveller",
+      "file": "books/tales-of-a-traveller.json",
+      "bytes": 658714,
+      "chapters": 4,
+      "title": "Washington Irving — Tales of a Traveller (1824)",
+      "level": 6
+    },
+    {
+      "slug": "tales-of-jazz-age",
+      "file": "books/tales-of-jazz-age.json",
+      "bytes": 205938,
+      "chapters": 11,
+      "title": "F. Scott Fitzgerald — Tales of the Jazz Age (1922)",
+      "level": 6
+    },
+    {
+      "slug": "taming-of-the-shrew",
+      "file": "books/taming-of-the-shrew.json",
+      "bytes": 112757,
+      "chapters": 5,
+      "title": "Shakespeare — The Taming of the Shrew (1593)",
+      "level": 6
+    },
+    {
+      "slug": "taras-bulba",
+      "file": "books/taras-bulba.json",
+      "bytes": 444288,
+      "chapters": 14,
+      "title": "Nikolai Gogol — Taras Bulba (1835)",
+      "level": 6
+    },
+    {
+      "slug": "tartuffe",
+      "file": "books/tartuffe.json",
+      "bytes": 8970,
+      "chapters": 3,
+      "title": "Molière — Tartuffe (1664)",
+      "level": 6
+    },
+    {
+      "slug": "tarzan-of-the-apes",
+      "file": "books/tarzan-of-the-apes.json",
+      "bytes": 495091,
+      "chapters": 28,
+      "title": "Edgar Rice Burroughs — Tarzan of the Apes (1912)",
+      "level": 6
+    },
+    {
+      "slug": "tenant-of-wildfell-hall",
+      "file": "books/tenant-of-wildfell-hall.json",
+      "bytes": 949305,
+      "chapters": 53,
+      "title": "Anne Brontë — The Tenant of Wildfell Hall (1848)",
+      "level": 6
+    },
+    {
+      "slug": "tess",
+      "file": "books/tess.json",
+      "bytes": 865319,
+      "chapters": 59,
+      "title": "Thomas Hardy — Tess of the d'Urbervilles (1891)",
+      "level": 6
+    },
+    {
+      "slug": "the-ambassadors",
+      "file": "books/the-ambassadors.json",
+      "bytes": 903880,
+      "chapters": 36,
+      "title": "Henry James — The Ambassadors (1903)",
+      "level": 6
+    },
+    {
+      "slug": "the-antiquary",
+      "file": "books/the-antiquary.json",
+      "bytes": 1025198,
+      "chapters": 47,
+      "title": "Walter Scott — The Antiquary (1816)",
+      "level": 6
+    },
+    {
+      "slug": "the-awakening",
+      "file": "books/the-awakening.json",
+      "bytes": 353213,
+      "chapters": 38,
+      "title": "Kate Chopin — The Awakening (1899)",
+      "level": 6
+    },
+    {
+      "slug": "the-betrothed",
+      "file": "books/the-betrothed.json",
+      "bytes": 957244,
+      "chapters": 37,
+      "title": "Alessandro Manzoni — The Betrothed (1827)",
+      "level": 6
+    },
+    {
+      "slug": "the-bostonians",
+      "file": "books/the-bostonians.json",
+      "bytes": 917220,
+      "chapters": 42,
+      "title": "Henry James — The Bostonians (1886)",
+      "level": 6
+    },
+    {
+      "slug": "the-castle",
+      "file": "books/the-castle.json",
+      "bytes": 458916,
+      "chapters": 23,
+      "title": "Franz Kafka — The Castle (1926)",
+      "level": 6
+    },
+    {
+      "slug": "the-clouds",
+      "file": "books/the-clouds.json",
+      "bytes": 85041,
+      "chapters": 1,
+      "title": "Aristophanes — The Clouds",
+      "level": 6
+    },
+    {
+      "slug": "the-cossacks",
+      "file": "books/the-cossacks.json",
+      "bytes": 367058,
+      "chapters": 42,
+      "title": "Leo Tolstoy — The Cossacks (1863)",
+      "level": 6
+    },
+    {
+      "slug": "the-deerslayer",
+      "file": "books/the-deerslayer.json",
+      "bytes": 1199515,
+      "chapters": 33,
+      "title": "James Fenimore Cooper — The Deerslayer (1841)",
+      "level": 6
+    },
+    {
+      "slug": "the-downfall",
+      "file": "books/the-downfall.json",
+      "bytes": 1300119,
+      "chapters": 24,
+      "title": "Émile Zola — The Downfall (1892)",
+      "level": 6
+    },
+    {
+      "slug": "the-earth-zola",
+      "file": "books/the-earth-zola.json",
+      "bytes": 1105363,
+      "chapters": 30,
+      "title": "Émile Zola — The Earth (1887)",
+      "level": 6
+    },
+    {
+      "slug": "the-egoist",
+      "file": "books/the-egoist.json",
+      "bytes": 1065885,
+      "chapters": 50,
+      "title": "George Meredith — The Egoist (1879)",
+      "level": 6
+    },
+    {
+      "slug": "the-father-strindberg",
+      "file": "books/the-father-strindberg.json",
+      "bytes": 85757,
+      "chapters": 3,
+      "title": "August Strindberg — The Father (1887)",
+      "level": 6
+    },
+    {
+      "slug": "the-frogs",
+      "file": "books/the-frogs.json",
+      "bytes": 80776,
+      "chapters": 1,
+      "title": "Aristophanes — The Frogs",
+      "level": 6
+    },
+    {
+      "slug": "the-gambler",
+      "file": "books/the-gambler.json",
+      "bytes": 343086,
+      "chapters": 17,
+      "title": "Fyodor Dostoevsky — The Gambler (1867)",
+      "level": 6
+    },
+    {
+      "slug": "the-idiot",
+      "file": "books/the-idiot.json",
+      "bytes": 1390326,
+      "chapters": 19,
+      "title": "Fyodor Dostoevsky — The Idiot (1869)",
+      "level": 6
+    },
+    {
+      "slug": "the-jungle",
+      "file": "books/the-jungle.json",
+      "bytes": 433506,
+      "chapters": 18,
+      "title": "Upton Sinclair — The Jungle (1906)",
+      "level": 6
+    },
+    {
+      "slug": "the-monk",
+      "file": "books/the-monk.json",
+      "bytes": 794740,
+      "chapters": 12,
+      "title": "Matthew Lewis — The Monk (1796)",
+      "level": 6
+    },
+    {
+      "slug": "the-octopus",
+      "file": "books/the-octopus.json",
+      "bytes": 1136111,
+      "chapters": 15,
+      "title": "Frank Norris — The Octopus (1901)",
+      "level": 6
+    },
+    {
+      "slug": "the-overcoat",
+      "file": "books/the-overcoat.json",
+      "bytes": 122405,
+      "chapters": 6,
+      "title": "Nikolai Gogol — The Overcoat (1842)",
+      "level": 6
+    },
+    {
+      "slug": "the-pit",
+      "file": "books/the-pit.json",
+      "bytes": 707460,
+      "chapters": 10,
+      "title": "Frank Norris — The Pit (1903)",
+      "level": 6
+    },
+    {
+      "slug": "the-possessed",
+      "file": "books/the-possessed.json",
+      "bytes": 1450562,
+      "chapters": 12,
+      "title": "Fyodor Dostoevsky — The Possessed (1872)",
+      "level": 6
+    },
+    {
+      "slug": "the-prince",
+      "file": "books/the-prince.json",
+      "bytes": 262211,
+      "chapters": 31,
+      "title": "Machiavelli — The Prince (1532)",
+      "level": 6
+    },
+    {
+      "slug": "the-rainbow",
+      "file": "books/the-rainbow.json",
+      "bytes": 1065361,
+      "chapters": 31,
+      "title": "D. H. Lawrence — The Rainbow (1915)",
+      "level": 6
+    },
+    {
+      "slug": "the-republic",
+      "file": "books/the-republic.json",
+      "bytes": 801090,
+      "chapters": 17,
+      "title": "Plato — The Republic",
+      "level": 6
+    },
+    {
+      "slug": "the-robbers",
+      "file": "books/the-robbers.json",
+      "bytes": 270303,
+      "chapters": 5,
+      "title": "Friedrich Schiller — The Robbers (1781)",
+      "level": 6
+    },
+    {
+      "slug": "the-seagull",
+      "file": "books/the-seagull.json",
+      "bytes": 103815,
+      "chapters": 4,
+      "title": "Anton Chekhov — The Seagull (1896)",
+      "level": 6
+    },
+    {
+      "slug": "the-tempest",
+      "file": "books/the-tempest.json",
+      "bytes": 133392,
+      "chapters": 5,
+      "title": "Shakespeare — The Tempest (1611)",
+      "level": 6
+    },
+    {
+      "slug": "the-trial",
+      "file": "books/the-trial.json",
+      "bytes": 454990,
+      "chapters": 10,
+      "title": "Franz Kafka — The Trial (1925)",
+      "level": 6
+    },
+    {
+      "slug": "the-vampyre",
+      "file": "books/the-vampyre.json",
+      "bytes": 73470,
+      "chapters": 1,
+      "title": "John Polidori — The Vampyre (1819)",
+      "level": 5
+    },
+    {
+      "slug": "the-virginian",
+      "file": "books/the-virginian.json",
+      "bytes": 739310,
+      "chapters": 32,
+      "title": "Owen Wister — The Virginian (1902)",
+      "level": 6
+    },
+    {
+      "slug": "the-warden",
+      "file": "books/the-warden.json",
+      "bytes": 405605,
+      "chapters": 21,
+      "title": "Anthony Trollope — The Warden (1855)",
+      "level": 6
+    },
+    {
+      "slug": "the-way-we-live-now",
+      "file": "books/the-way-we-live-now.json",
+      "bytes": 392293,
+      "chapters": 20,
+      "title": "Anthony Trollope — The Way We Live Now (1875)",
+      "level": 6
+    },
+    {
+      "slug": "the-woodlanders",
+      "file": "books/the-woodlanders.json",
+      "bytes": 7809,
+      "chapters": 3,
+      "title": "Thomas Hardy — The Woodlanders (1887)",
+      "level": 6
+    },
+    {
+      "slug": "therese-raquin",
+      "file": "books/therese-raquin.json",
+      "bytes": 410118,
+      "chapters": 32,
+      "title": "Émile Zola — Thérèse Raquin (1867)",
+      "level": 6
+    },
+    {
+      "slug": "thirty-nine-steps",
+      "file": "books/thirty-nine-steps.json",
+      "bytes": 219925,
+      "chapters": 10,
+      "title": "John Buchan — The Thirty-Nine Steps (1915)",
+      "level": 6
+    },
+    {
+      "slug": "this-side-of-paradise",
+      "file": "books/this-side-of-paradise.json",
+      "bytes": 488070,
+      "chapters": 10,
+      "title": "F. Scott Fitzgerald — This Side of Paradise (1920)",
+      "level": 6
+    },
+    {
+      "slug": "three-men-in-a-boat",
+      "file": "books/three-men-in-a-boat.json",
+      "bytes": 362461,
+      "chapters": 19,
+      "title": "Jerome K. Jerome — Three Men in a Boat (1889)",
+      "level": 5
+    },
+    {
+      "slug": "three-musketeers",
+      "file": "books/three-musketeers.json",
+      "bytes": 1354688,
+      "chapters": 68,
+      "title": "Alexandre Dumas — The Three Musketeers (1844)",
+      "level": 6
+    },
+    {
+      "slug": "three-sisters",
+      "file": "books/three-sisters.json",
+      "bytes": 15015,
+      "chapters": 4,
+      "title": "Anton Chekhov — Three Sisters (1901)",
+      "level": 6
+    },
+    {
+      "slug": "three-tales",
+      "file": "books/three-tales.json",
+      "bytes": 70213,
+      "chapters": 5,
+      "title": "Gustave Flaubert — Three Tales (1877)",
+      "level": 6
+    },
+    {
+      "slug": "through-the-looking-glass",
+      "file": "books/through-the-looking-glass.json",
+      "bytes": 173863,
+      "chapters": 11,
+      "title": "Lewis Carroll — Through the Looking-Glass (1871)",
+      "level": 4
+    },
+    {
+      "slug": "thucydides",
+      "file": "books/thucydides.json",
+      "bytes": 1180980,
+      "chapters": 8,
+      "title": "Thucydides — History of the Peloponnesian War (Tr. Crawley)",
+      "level": 6
+    },
+    {
+      "slug": "thus-spoke-zarathustra",
+      "file": "books/thus-spoke-zarathustra.json",
+      "bytes": 604010,
+      "chapters": 78,
+      "title": "Nietzsche — Thus Spoke Zarathustra (1885)",
+      "level": 6
+    },
+    {
+      "slug": "time-machine",
+      "file": "books/time-machine.json",
+      "bytes": 184879,
+      "chapters": 16,
+      "title": "H. G. Wells — The Time Machine (1895)",
+      "level": 6
+    },
+    {
+      "slug": "toilers-of-the-sea",
+      "file": "books/toilers-of-the-sea.json",
+      "bytes": 833307,
+      "chapters": 22,
+      "title": "Victor Hugo — Toilers of the Sea (1866)",
+      "level": 6
+    },
+    {
+      "slug": "tom-browns-schooldays",
+      "file": "books/tom-browns-schooldays.json",
+      "bytes": 586930,
+      "chapters": 19,
+      "title": "Thomas Hughes — Tom Brown's School Days (1857)",
+      "level": 4
+    },
+    {
+      "slug": "tom-jones",
+      "file": "books/tom-jones.json",
+      "bytes": 2004197,
+      "chapters": 207,
+      "title": "Henry Fielding — Tom Jones (1749)",
+      "level": 6
+    },
+    {
+      "slug": "tom-sawyer",
+      "file": "books/tom-sawyer.json",
+      "bytes": 410638,
+      "chapters": 34,
+      "title": "Mark Twain — The Adventures of Tom Sawyer (1876)",
+      "level": 6
+    },
+    {
+      "slug": "tono-bungay",
+      "file": "books/tono-bungay.json",
+      "bytes": 776442,
+      "chapters": 17,
+      "title": "H. G. Wells — Tono-Bungay (1909)",
+      "level": 6
+    },
+    {
+      "slug": "tragedy-of-korosko",
+      "file": "books/tragedy-of-korosko.json",
+      "bytes": 200648,
+      "chapters": 16,
+      "title": "Arthur Conan Doyle — The Tragedy of the Korosko (1898)",
+      "level": 6
+    },
+    {
+      "slug": "treasure-island",
+      "file": "books/treasure-island.json",
+      "bytes": 377898,
+      "chapters": 33,
+      "title": "Robert Louis Stevenson — Treasure Island (1883)",
+      "level": 6
+    },
+    {
+      "slug": "treasure-seekers",
+      "file": "books/treasure-seekers.json",
+      "bytes": 285527,
+      "chapters": 17,
+      "title": "E. Nesbit — The Story of the Treasure Seekers (1899)",
+      "level": 6
+    },
+    {
+      "slug": "trilby",
+      "file": "books/trilby.json",
+      "bytes": 575526,
+      "chapters": 8,
+      "title": "George du Maurier — Trilby (1894)",
+      "level": 6
+    },
+    {
+      "slug": "tristram-shandy",
+      "file": "books/tristram-shandy.json",
+      "bytes": 1076208,
+      "chapters": 2,
+      "title": "Laurence Sterne — Tristram Shandy (1759)",
+      "level": 6
+    },
+    {
+      "slug": "trumpet-major",
+      "file": "books/trumpet-major.json",
+      "bytes": 640988,
+      "chapters": 41,
+      "title": "Thomas Hardy — The Trumpet-Major (1880)",
+      "level": 6
+    },
+    {
+      "slug": "turn-of-the-screw",
+      "file": "books/turn-of-the-screw.json",
+      "bytes": 225914,
+      "chapters": 24,
+      "title": "Henry James — The Turn of the Screw (1898)",
+      "level": 6
+    },
+    {
+      "slug": "twelfth-night",
+      "file": "books/twelfth-night.json",
+      "bytes": 117395,
+      "chapters": 5,
+      "title": "Shakespeare — Twelfth Night (1602)",
+      "level": 6
+    },
+    {
+      "slug": "twenty-thousand-leagues",
+      "file": "books/twenty-thousand-leagues.json",
+      "bytes": 613766,
+      "chapters": 24,
+      "title": "Jules Verne — Twenty Thousand Leagues Under the Sea (1870)",
+      "level": 6
+    },
+    {
+      "slug": "twenty-years-after",
+      "file": "books/twenty-years-after.json",
+      "bytes": 1425329,
+      "chapters": 88,
+      "title": "Alexandre Dumas — Twenty Years After (1845)",
+      "level": 6
+    },
+    {
+      "slug": "two-years-before-the-mast",
+      "file": "books/two-years-before-the-mast.json",
+      "bytes": 909878,
+      "chapters": 37,
+      "title": "Richard Henry Dana — Two Years Before the Mast (1840)",
+      "level": 6
+    },
+    {
+      "slug": "typee",
+      "file": "books/typee.json",
+      "bytes": 365912,
+      "chapters": 20,
+      "title": "Herman Melville — Typee (1846)",
+      "level": 6
+    },
+    {
+      "slug": "typhoon",
+      "file": "books/typhoon.json",
+      "bytes": 938607,
+      "chapters": 27,
+      "title": "Joseph Conrad — Typhoon (1902)",
+      "level": 6
+    },
+    {
+      "slug": "uncle-silas",
+      "file": "books/uncle-silas.json",
+      "bytes": 922356,
+      "chapters": 65,
+      "title": "J. S. Le Fanu — Uncle Silas (1864)",
+      "level": 6
+    },
+    {
+      "slug": "uncle-toms-cabin",
+      "file": "books/uncle-toms-cabin.json",
+      "bytes": 1051624,
+      "chapters": 45,
+      "title": "Harriet Beecher Stowe — Uncle Tom's Cabin (1852)",
+      "level": 6
+    },
+    {
+      "slug": "uncle-vanya",
+      "file": "books/uncle-vanya.json",
+      "bytes": 13216,
+      "chapters": 4,
+      "title": "Anton Chekhov — Uncle Vanya (1897)",
+      "level": 6
+    },
+    {
+      "slug": "under-western-eyes",
+      "file": "books/under-western-eyes.json",
+      "bytes": 543268,
+      "chapters": 24,
+      "title": "Joseph Conrad — Under Western Eyes (1911)",
+      "level": 6
+    },
+    {
+      "slug": "up-from-slavery",
+      "file": "books/up-from-slavery.json",
+      "bytes": 408691,
+      "chapters": 17,
+      "title": "Booker T. Washington — Up from Slavery (1901)",
+      "level": 6
+    },
+    {
+      "slug": "utopia",
+      "file": "books/utopia.json",
+      "bytes": 240207,
+      "chapters": 10,
+      "title": "Thomas More — Utopia (1516)",
+      "level": 6
+    },
+    {
+      "slug": "valley-of-fear",
+      "file": "books/valley-of-fear.json",
+      "bytes": 324354,
+      "chapters": 9,
+      "title": "Arthur Conan Doyle — The Valley of Fear (1915)",
+      "level": 6
+    },
+    {
+      "slug": "vanity-fair",
+      "file": "books/vanity-fair.json",
+      "bytes": 1728784,
+      "chapters": 67,
+      "title": "William Thackeray — Vanity Fair (1848)",
+      "level": 6
+    },
+    {
+      "slug": "vathek",
+      "file": "books/vathek.json",
+      "bytes": 29624,
+      "chapters": 4,
+      "title": "William Beckford — Vathek (1786)",
+      "level": 6
+    },
+    {
+      "slug": "vicar-of-wakefield",
+      "file": "books/vicar-of-wakefield.json",
+      "bytes": 364131,
+      "chapters": 32,
+      "title": "Oliver Goldsmith — The Vicar of Wakefield (1766)",
+      "level": 5
+    },
+    {
+      "slug": "vicomte-bragelonne",
+      "file": "books/vicomte-bragelonne.json",
+      "bytes": 998747,
+      "chapters": 67,
+      "title": "Alexandre Dumas — The Vicomte of Bragelonne (1847)",
+      "level": 6
+    },
+    {
+      "slug": "vindication-of-rights-of-woman",
+      "file": "books/vindication-of-rights-of-woman.json",
+      "bytes": 491964,
+      "chapters": 16,
+      "title": "Mary Wollstonecraft — A Vindication (1792)",
+      "level": 6
+    },
+    {
+      "slug": "virgin-soil",
+      "file": "books/virgin-soil.json",
+      "bytes": 564406,
+      "chapters": 38,
+      "title": "Ivan Turgenev — Virgin Soil (1877)",
+      "level": 6
+    },
+    {
+      "slug": "walden",
+      "file": "books/walden.json",
+      "bytes": 639891,
+      "chapters": 19,
+      "title": "Henry David Thoreau — Walden (1854)",
+      "level": 6
+    },
+    {
+      "slug": "war-and-peace",
+      "file": "books/war-and-peace.json",
+      "bytes": 1114395,
+      "chapters": 39,
+      "title": "Leo Tolstoy — War and Peace (1869)",
+      "level": 6
+    },
+    {
+      "slug": "war-of-the-worlds",
+      "file": "books/war-of-the-worlds.json",
+      "bytes": 262050,
+      "chapters": 17,
+      "title": "H. G. Wells — The War of the Worlds (1898)",
+      "level": 6
+    },
+    {
+      "slug": "washington-square",
+      "file": "books/washington-square.json",
+      "bytes": 374796,
+      "chapters": 35,
+      "title": "Henry James — Washington Square (1880)",
+      "level": 6
+    },
+    {
+      "slug": "water-babies",
+      "file": "books/water-babies.json",
+      "bytes": 283891,
+      "chapters": 7,
+      "title": "Charles Kingsley — The Water-Babies (1863)",
+      "level": 6
+    },
+    {
+      "slug": "waverley",
+      "file": "books/waverley.json",
+      "bytes": 1083152,
+      "chapters": 72,
+      "title": "Walter Scott — Waverley (1814)",
+      "level": 6
+    },
+    {
+      "slug": "way-of-all-flesh",
+      "file": "books/way-of-all-flesh.json",
+      "bytes": 903166,
+      "chapters": 86,
+      "title": "Samuel Butler — The Way of All Flesh (1903)",
+      "level": 6
+    },
+    {
+      "slug": "what-katy-did",
+      "file": "books/what-katy-did.json",
+      "bytes": 271844,
+      "chapters": 13,
+      "title": "what-katy-did",
+      "level": 6
+    },
+    {
+      "slug": "what-maisie-knew",
+      "file": "books/what-maisie-knew.json",
+      "bytes": 527877,
+      "chapters": 31,
+      "title": "Henry James — What Maisie Knew (1897)",
+      "level": 6
+    },
+    {
+      "slug": "when-the-sleeper-wakes",
+      "file": "books/when-the-sleeper-wakes.json",
+      "bytes": 487186,
+      "chapters": 24,
+      "title": "H. G. Wells — When the Sleeper Wakes (1899)",
+      "level": 6
+    },
+    {
+      "slug": "where-angels-fear",
+      "file": "books/where-angels-fear.json",
+      "bytes": 286088,
+      "chapters": 10,
+      "title": "E. M. Forster — Where Angels Fear to Tread (1905)",
+      "level": 6
+    },
+    {
+      "slug": "white-fang",
+      "file": "books/white-fang.json",
+      "bytes": 404108,
+      "chapters": 10,
+      "title": "Jack London — White Fang (1906)",
+      "level": 6
+    },
+    {
+      "slug": "wilhelm-meister",
+      "file": "books/wilhelm-meister.json",
+      "bytes": 1044892,
+      "chapters": 28,
+      "title": "Goethe, tr. Carlyle (1824)",
+      "level": 6
+    },
+    {
+      "slug": "william-tell",
+      "file": "books/william-tell.json",
+      "bytes": 182728,
+      "chapters": 5,
+      "title": "Friedrich Schiller — William Tell (1804)",
+      "level": 6
+    },
+    {
+      "slug": "wind-in-the-willows",
+      "file": "books/wind-in-the-willows.json",
+      "bytes": 335992,
+      "chapters": 12,
+      "title": "Kenneth Grahame — The Wind in the Willows (1908)",
+      "level": 6
+    },
+    {
+      "slug": "winesburg-ohio",
+      "file": "books/winesburg-ohio.json",
+      "bytes": 10571,
+      "chapters": 3,
+      "title": "Sherwood Anderson — Winesburg, Ohio (1919)",
+      "level": 6
+    },
+    {
+      "slug": "wings-of-the-dove",
+      "file": "books/wings-of-the-dove.json",
+      "bytes": 1044056,
+      "chapters": 25,
+      "title": "Henry James — The Wings of the Dove (1902)",
+      "level": 6
+    },
+    {
+      "slug": "winters-tale",
+      "file": "books/winters-tale.json",
+      "bytes": 146717,
+      "chapters": 5,
+      "title": "Shakespeare — The Winter's Tale (1611)",
+      "level": 6
+    },
+    {
+      "slug": "wizard-of-oz",
+      "file": "books/wizard-of-oz.json",
+      "bytes": 217469,
+      "chapters": 24,
+      "title": "L. Frank Baum — The Wonderful Wizard of Oz (1900)",
+      "level": 6
+    },
+    {
+      "slug": "woman-in-white",
+      "file": "books/woman-in-white.json",
+      "bytes": 1211093,
+      "chapters": 17,
+      "title": "Wilkie Collins — The Woman in White (1859)",
+      "level": 6
+    },
+    {
+      "slug": "wuthering-heights",
+      "file": "books/wuthering-heights.json",
+      "bytes": 671865,
+      "chapters": 34,
+      "title": "Emily Brontë — Wuthering Heights (1847)",
+      "level": 6
+    },
+    {
+      "slug": "yellow-wallpaper",
+      "file": "books/yellow-wallpaper.json",
+      "bytes": 69163,
+      "chapters": 1,
+      "title": "Charlotte Perkins Gilman — The Yellow Wallpaper (1892)",
+      "level": 6
+    }
+  ]
+}
