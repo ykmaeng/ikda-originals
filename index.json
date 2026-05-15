@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T04:38:37.781Z",
-  "count": 469,
+  "generated": "2026-05-15T03:52:07.646Z",
+  "count": 462,
   "totalBytes": 258066900,
   "books": [
     {
@@ -601,14 +601,6 @@
       "bytes": 1162483,
       "chapters": 14,
       "title": "Fyodor Dostoevsky — Crime and Punishment (1866)",
-      "level": 6
-    },
-    {
-      "slug": "custom-of-the-country",
-      "file": "books/custom-of-the-country.json",
-      "bytes": 61713,
-      "chapters": 99,
-      "title": "Edith Wharton — The Custom of the Country (1913)",
       "level": 6
     },
     {
@@ -1500,14 +1492,6 @@
       "level": 6
     },
     {
-      "slug": "kipps",
-      "file": "books/kipps.json",
-      "bytes": 336455,
-      "chapters": 20,
-      "title": "H. G. Wells — Kipps (1905)",
-      "level": 6
-    },
-    {
       "slug": "korean-folk-tales",
       "file": "books/korean-folk-tales.json",
       "bytes": 647032,
@@ -1657,14 +1641,6 @@
       "bytes": 324787,
       "chapters": 15,
       "title": "Frances Hodgson Burnett — Little Lord Fauntleroy (1886)",
-      "level": 6
-    },
-    {
-      "slug": "little-men",
-      "file": "books/little-men.json",
-      "bytes": 2211710,
-      "chapters": 74,
-      "title": "Louisa May Alcott — Little Men (1871)",
       "level": 6
     },
     {
@@ -2484,14 +2460,6 @@
       "level": 6
     },
     {
-      "slug": "prince-and-the-pauper",
-      "file": "books/prince-and-the-pauper.json",
-      "bytes": 400180,
-      "chapters": 32,
-      "title": "Mark Twain — The Prince and the Pauper (1881)",
-      "level": 6
-    },
-    {
       "slug": "princess-and-curdie",
       "file": "books/princess-and-curdie.json",
       "bytes": 307321,
@@ -2676,14 +2644,6 @@
       "level": 6
     },
     {
-      "slug": "roughing-it",
-      "file": "books/roughing-it.json",
-      "bytes": 957536,
-      "chapters": 84,
-      "title": "Mark Twain — Roughing It (1872)",
-      "level": 6
-    },
-    {
       "slug": "roxana",
       "file": "books/roxana.json",
       "bytes": 837827,
@@ -2777,14 +2737,6 @@
       "bytes": 580763,
       "chapters": 12,
       "title": "Arthur Conan Doyle — Adventures of Sherlock Holmes (1892)",
-      "level": 6
-    },
-    {
-      "slug": "sherlock-memoirs",
-      "file": "books/sherlock-memoirs.json",
-      "bytes": 835076,
-      "chapters": 38,
-      "title": "Arthur Conan Doyle — The Memoirs of Sherlock Holmes (1894)",
       "level": 6
     },
     {
@@ -2985,14 +2937,6 @@
       "bytes": 1025198,
       "chapters": 47,
       "title": "Walter Scott — The Antiquary (1816)",
-      "level": 6
-    },
-    {
-      "slug": "the-awakening",
-      "file": "books/the-awakening.json",
-      "bytes": 353213,
-      "chapters": 38,
-      "title": "Kate Chopin — The Awakening (1899)",
       "level": 6
     },
     {
